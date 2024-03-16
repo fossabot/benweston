@@ -13,7 +13,6 @@
         </a>
     </p>
 </div>
-
 <div align="left">
     <p align="left">
         <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
