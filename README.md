@@ -5,7 +5,7 @@
 <p align="left">
   <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
     <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png"
-      width="70.75" height="67.25"
+      width="84.9" height="80.7"
         alt="Linux Essentials Icon">
   </a>
 
