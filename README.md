@@ -11,6 +11,15 @@
 
 </div>
 
+## License
+
+<div align="center">
+
+The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
+Certification icons are used in accordance with the terms and conditions of their respective awarding body; Use of any certificate or certification logos by anyone not actively holding that certification status is strictly prohibited.   
+
+</div>
+
 <!--
 **benweston/benweston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
