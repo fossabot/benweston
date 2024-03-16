@@ -1,4 +1,15 @@
-### Hi there 👋
+## Certifications
+
+<div align="left">
+
+<p align="left">
+  <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
+    <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png"
+      width="2.83" height="2.69"
+        alt="Linux Essentials Icon">
+  </a>
+
+</div>
 
 <!--
 **benweston/benweston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
