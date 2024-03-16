@@ -1,6 +1,8 @@
+<!--
 <div align="center">
     <img src="https://github.com/benweston/benweston/blob/main/img/banner-image.png" alt="Server Switches" width="900" height="70" />
 </div>
+-->
 
 ## Certifications
 
