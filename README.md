@@ -16,7 +16,7 @@
 <div align="justify">
 
 The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
-Certification icons are used in accordance with the terms and conditions of their respective awarding body; Use of any certificate or certification logos by anyone not actively holding that certification status is strictly prohibited.   
+Certification icons are used in accordance with the terms and conditions of their respective awarding body.   
 
 </div>
 
