@@ -12,7 +12,6 @@
             <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="84.9" height="80.7" alt="Linux Essentials Icon" />
         </a>
     </p>
-</div>
 <div align="left">
     <p align="left">
         <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
