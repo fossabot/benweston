@@ -14,6 +14,14 @@
     </p>
 </div>
 
+<div align="left">
+    <p align="left">
+        <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
+            <img src="https://github.com/benweston/benweston/blob/main/img/terraform-associate-003.png" width="80.7" height="80.7" alt="Terraform Associate Icon" />
+        </a>
+    </p>
+</div>
+
 ## License
 
 <div align="left">
