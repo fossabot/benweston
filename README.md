@@ -2,6 +2,14 @@
     <img src="https://github.com/benweston/benweston/blob/main/img/banner-image.png" alt="Server" width="900" height="90" />
 </div>
 
+# Ben Weston
+
+<div align="left">
+
+> [Linux Professional Institute (LPI)](https://www.lpi.org/) certified Linux Essentials.   
+
+</div>
+
 ## Certifications
 
 <div align="left">
