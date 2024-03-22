@@ -15,13 +15,13 @@
 <div align="left">
     <p align="left">
         <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
-            <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="84.9" height="80.7" alt="Linux Essentials Icon" />
+            <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="101.88" height="96.84" alt="Linux Essentials Icon" />
         </a>
         <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
-            <img src="https://github.com/benweston/benweston/blob/main/img/terraform-associate-003.png" width="80.7" height="80.7" alt="Terraform Associate Icon" />
+            <img src="https://github.com/benweston/benweston/blob/main/img/terraform-associate-003.png" width="96.84" height="96.84" alt="Terraform Associate Icon" />
         </a>
         <a href="https://www.credential.net/e835e1db-e4d9-466e-8db9-ba3b87314962">
-            <img src="https://github.com/benweston/benweston/blob/main/img/cloud-digital-leader.png" width="80.7.9" height="80.7" alt="Cloud Digital Leader Icon" />
+            <img src="https://github.com/benweston/benweston/blob/main/img/cloud-digital-leader.png" width="96.84" height="96.84" alt="Cloud Digital Leader Icon" />
         </a>
     </p>
 </div>
