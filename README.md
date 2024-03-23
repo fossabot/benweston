@@ -6,7 +6,7 @@
 
 <div align="left">
 
-> [Linux Professional Institute (LPI)](https://www.lpi.org/) certified Linux Essentials.   
+> Cloud Engineer for [Springer Nature](https://www.springernature.com/gp).   
 
 </div>
 
