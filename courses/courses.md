@@ -23,3 +23,14 @@
 | [Linux OS](https://www.coursera.org/learn/illinois-tech-linux-os) | [**LINK**](https://storage.googleapis.com/earned-current/coursera/linux-os.pdf) |
 
 </div>
+
+<div align="left">
+
+**Cloud Academy**   
+
+| Course | Certificate |
+| :----- | :----- |
+| [Linux Server Professional - LPIC-101](https://cloudacademy.com/learning-paths/linux-certification-lpic-1-8/) | [**LINK**](https://storage.googleapis.com/earned-current/cloud-academy/linux-server-professional-lpic-101.pdf) |
+| [Learn Linux in 5 Days and Level Up Your Career](https://cloudacademy.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/earned-current/cloud-academy/learn-linux-in-5-days-and-level-up-your-career.pdf) |
+
+</div>
