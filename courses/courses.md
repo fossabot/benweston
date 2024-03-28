@@ -6,6 +6,8 @@
 
 </div>
 
+<div align="left">
+
 **Coursera**   
 | Course | Certificate |
 | :----- | :----- |
