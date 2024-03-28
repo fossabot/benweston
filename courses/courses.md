@@ -9,6 +9,7 @@
 <div align="left">
 
 **Coursera**   
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Unix and Bash for Beginners Specialization**](https://www.coursera.org/specializations/unix-and-bash-for-beginners) | **QUEUED** |
