@@ -17,4 +17,8 @@
 | [Bash Scripting and System Configuration](https://www.coursera.org/learn/codio-bash-scripting-and-system-configuration?specialization=unix-and-bash-for-beginners) | **_IN PROGRESS_** |
 | [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | [**LINK**](https://storage.googleapis.com/earned-current/coursera/unix-and-bash-for-beginners-specialization/unix-system-basics.pdf) |
 
+| Course | Certificate |
+| :----- | :----- |
+| [Linux OS](https://www.coursera.org/learn/illinois-tech-linux-os) | [**LINK**](https://storage.googleapis.com/earned-current/coursera/linux-os.pdf) |
+
 </div>
