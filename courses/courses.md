@@ -34,3 +34,13 @@
 | [Learn Linux in 5 Days and Level Up Your Career](https://cloudacademy.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/earned-current/cloud-academy/learn-linux-in-5-days-and-level-up-your-career.pdf) |
 
 </div>
+
+<div align="left">
+
+**edX**   
+
+| Course | Certificate |
+| :----- | :----- |
+| [LFS101x: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/earned-current/edx/lfs101x-introduction-to-linux.pdf) |
+
+</div>
