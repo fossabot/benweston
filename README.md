@@ -36,6 +36,6 @@
 
 The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
 Certification icons are used in accordance with the provided [terms and conditions](https://www.lpi.org/logos).   
-Banner image taken from photo by [Massimo Botturi](https://unsplash.com/@wildmax) on [Unsplash](https://unsplash.com/photos/electronic-wire-lot-zFYUsLk_50Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) under the [Unsplash License](https://unsplash.com/license).   
+Banner image taken from photo by [Spiderplay](https://www.istockphoto.com/portfolio/Spiderplay?mediatype=photography) on [iStock](https://www.istockphoto.com/) under their [standard license](https://www.istockphoto.com/help/licenses).   
 
 </div>
