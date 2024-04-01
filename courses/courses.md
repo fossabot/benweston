@@ -37,6 +37,19 @@
 
 <div align="left">
 
+**A Cloud Guru**   
+
+| Course | Certificate |
+| :----- | :----- |
+| [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-101-v5-objectives) | [**LINK**](https://storage.googleapis.com/earned-current/a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
+| [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/earned-current/a-cloud-guru/lpi-linux-essentials-certification.pdf) |
+| [Introduction to Linux Virtualization from the Command Line](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-virtualization-from-the-command-line) | [**LINK**](https://storage.googleapis.com/earned-current/a-cloud-guru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
+| [Overview of Linux](https://www.pluralsight.com/cloud-guru/courses/overview-of-linux) | [**LINK**](https://storage.googleapis.com/earned-current/a-cloud-guru/overview-of-linux.pdf) |
+
+</div>
+
+<div align="left">
+
 **Udemy**   
 
 | Course | Certificate |
