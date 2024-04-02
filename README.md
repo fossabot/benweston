@@ -17,6 +17,9 @@
         <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
             <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="82.5228" height="78.4404" alt="Linux Essentials Icon" />
         </a>
+        <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
+            <img src="https://github.com/benweston/benweston/blob/google-version/img/terraform-associate-003.png" width="78.4404" height="78.4404" alt="Terraform Associate Icon" />
+        </a>
     </p>
 </div>
 
