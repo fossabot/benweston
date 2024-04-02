@@ -30,7 +30,7 @@
 
 <div align="left">
     <p align="left">
-        <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md">
+        <a href="https://github.com/benweston/benweston/blob/google-version/courses/courses.md">
             <img src="https://github.com/benweston/benweston/blob/main/img/courses-icon.png" width="30" height="30" alt="Online Courses Icon" />
         </a>
     </p>
