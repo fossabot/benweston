@@ -6,7 +6,7 @@
 
 <div align="left">
 
-> Cloud Engineer for [Springer Nature](https://www.springernature.com/gp).  Currently studying to achieve [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview/) and documenting my journey here.   
+> Cloud Engineer for [Springer Nature Group](https://www.linkedin.com/company/springernaturegroup/).   
 
 </div>
 
