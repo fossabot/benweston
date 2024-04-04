@@ -8,7 +8,8 @@
 
 <div align="justify">
 
-**Google Cloud Skills Boost**   
+### Google Cloud Skills Boost
+
 | Course | Certificate |
 | :----- | :----- |
 | [Understanding Google Cloud Security and Operations](https://www.cloudskillsboost.google/course_templates/271) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5041150) |
@@ -20,7 +21,8 @@
 
 <div align="justify">
 
-**Coursera**   
+### Coursera
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/cloud-engineering-gcp) | _**IN PROGRESS**_ |
@@ -75,7 +77,8 @@
 
 <div align="justify">
 
-**Cloud Academy**   
+### Cloud Academy
+
 | Course | Certificate |
 | :----- | :----- |
 | [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | **QUEUED** |
@@ -85,7 +88,8 @@
 
 <div align="justify">
 
-**A Cloud Guru**   
+### A Cloud Guru
+
 | Course | Certificate |
 | :----- | :----- |
 | [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | **QUEUED** |
@@ -95,7 +99,8 @@
 
 <div align="justify">
 
-**Udemy**   
+### Udemy
+
 | Course | Certificate |
 | :----- | :----- |
 | [Google Cloud Associate Cloud Engineer: Get Certified 2023](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/) | **QUEUED** |
