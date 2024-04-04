@@ -2,12 +2,6 @@
 
 <div align="justify">
 
-> List of Google Cloud training courses taken, currently in progress, and queued.   
-
-</div>
-
-<div align="justify">
-
 ### Table of Contents
 
 1. [Google Cloud Skills Boost](#google-cloud-skills-boost)
