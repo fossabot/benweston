@@ -1,5 +1,3 @@
-## Courses
-
 #### Coursera
 
 <div align="justify">
