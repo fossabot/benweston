@@ -1,15 +1,17 @@
 ## 01 Google Cloud
 
-<div align="justify">
-
 #### Google Cloud Skills Boost
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
-| [Understanding Google Cloud Security and Operations](https://www.cloudskillsboost.google/course_templates/271) | **QUEUED** |
-| [Infrastructure and Application Modernization with Google Cloud](https://www.cloudskillsboost.google/course_templates/265) | **QUEUED** |
-| [Innovating with Data and Google Cloud](https://www.cloudskillsboost.google/course_templates/267) | **QUEUED** |
-| [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/course_templates/266) | **QUEUED** |
+| [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/paths/9/course_templates/271) | **QUEUED** |
+| [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945) | **QUEUED** |
+| [Modernize Infrastructure and Applications with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/265) | **QUEUED** |
+| [Innovating with Google Cloud Artificial Intelligence](https://www.cloudskillsboost.google/paths/9/course_templates/946) | **QUEUED** |
+| [Exploring Data Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/267) | **QUEUED** |
+| [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266) | **QUEUED** |
 
 </div>
 
