@@ -6,6 +6,25 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **QUEUED** |
+| [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | **QUEUED** |
+| [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/637) | **QUEUED** |
+| [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/11/course_templates/648) | **QUEUED** |
+| [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/443) | **QUEUED** |
+| [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/99) | **QUEUED** |
+| [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/paths/11/course_templates/2) | **QUEUED** |
+| [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.cloudskillsboost.google/paths/11/course_templates/178) | **QUEUED** |
+| [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/paths/11/course_templates/49) | **QUEUED** |
+| [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/paths/11/course_templates/50) | **QUEUED** |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/paths/11/course_templates/60) | **QUEUED** |
+| [Preparing for Your Associate Cloud Engineer Journey](https://www.cloudskillsboost.google/paths/11/course_templates/77) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
 | [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/paths/9/course_templates/271) | **QUEUED** |
 | [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945) | **QUEUED** |
 | [Modernize Infrastructure and Applications with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/265) | **QUEUED** |
