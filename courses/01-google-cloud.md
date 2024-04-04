@@ -8,7 +8,7 @@
 
 <div align="justify">
 
-## Table of Contents
+### Table of Contents
 
 1. [Google Cloud Skills Boost](#google-cloud-skills-boost)
 2. [Coursera](#coursera)
