@@ -20,7 +20,7 @@
 
 </div>
 
-#### Cloud Academy
+### Cloud Academy
 
 <div align="justify">
 
@@ -31,7 +31,7 @@
 
 </div>
 
-#### A Cloud Guru
+### A Cloud Guru
 
 <div align="justify">
 
@@ -45,7 +45,7 @@
 
 </div>
 
-#### Udemy
+### Udemy
 
 <div align="justify">
 
@@ -57,7 +57,7 @@
 
 </div>
 
-#### edX
+### edX
 
 <div align="justify">
 
