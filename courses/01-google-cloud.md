@@ -2,18 +2,6 @@
 
 <div align="justify">
 
-### Table of Contents
-
-1. [Google Cloud Skills Boost](#google-cloud-skills-boost)
-2. [Coursera](#coursera)
-3. [Cloud Academy](#cloud-academy)
-4. [A Cloud Guru](#a-cloud-guru)
-5. [Udemy](#udemy)
-
-</div>
-
-<div align="justify">
-
 ### Google Cloud Skills Boost
 
 | Course | Certificate |
