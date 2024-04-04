@@ -49,9 +49,9 @@
 
 </div>
 
-<div align="justify">
-
 #### Coursera
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -63,6 +63,10 @@
 | [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=cloud-engineering-gcp) | **QUEUED** |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=cloud-engineering-gcp) | **QUEUED** |
 
+</div>
+
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Google Cloud Digital Leader Training Professional Certificate**](https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training) | **QUEUED** |
@@ -70,6 +74,10 @@
 | [Infrastructure and Application Modernization with Google Cloud](https://www.coursera.org/learn/google-cloud-product-fundamentals?specialization=google-cloud-digital-leader-training) | **QUEUED** |
 | [Innovating with Data and Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
 | [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
+
+</div>
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -80,6 +88,10 @@
 | [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=cloud-engineering-gcp) | **QUEUED** |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=cloud-engineering-gcp) | **QUEUED** |
 
+</div>
+
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Architecting with Google Kubernetes Engine Specialization**](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) | **QUEUED** |
@@ -88,6 +100,10 @@
 | [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke?specialization=architecting-google-kubernetes-engine) | **QUEUED** |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=cloud-engineering-gcp) | **QUEUED** |
 
+</div>
+
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [**Security in Google Cloud Specialization**](https://www.coursera.org/specializations/security-google-cloud-platform) | **QUEUED** |
@@ -95,6 +111,10 @@
 | [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud?specialization=security-google-cloud-platform) | **QUEUED** |
 | [Managing Security in Google Cloud](https://www.coursera.org/learn/managing-security-in-google-cloud-platform?specialization=security-google-cloud-platform) | **QUEUED** |
 | [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=cloud-engineering-gcp) | **QUEUED** |
+
+</div>
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -105,9 +125,9 @@
 
 </div>
 
-<div align="justify">
-
 #### Cloud Academy
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -116,9 +136,9 @@
 
 </div>
 
-<div align="justify">
-
 #### A Cloud Guru
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -127,9 +147,9 @@
 
 </div>
 
-<div align="justify">
-
 #### Udemy
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
