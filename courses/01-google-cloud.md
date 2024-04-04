@@ -2,6 +2,12 @@
 
 <div align="justify">
 
+> List of Google Cloud training courses taken, currently in progress, and queued.   
+
+</div>
+
+<div align="justify">
+
 **Google Cloud Skills Boost**   
 | Course | Certificate |
 | :----- | :----- |
