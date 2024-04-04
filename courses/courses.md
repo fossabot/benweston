@@ -1,14 +1,8 @@
 ## Courses
 
+#### Coursera
+
 <div align="justify">
-
-> Training courses undertaken.   
-
-</div>
-
-<div align="left">
-
-**Coursera**   
 
 | Course | Certificate |
 | :----- | :----- |
@@ -18,15 +12,19 @@
 | [Bash Scripting and System Configuration](https://www.coursera.org/learn/codio-bash-scripting-and-system-configuration?specialization=unix-and-bash-for-beginners) | **_IN PROGRESS_** |
 | [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | [**LINK**](https://storage.googleapis.com/earned-current/coursera/unix-and-bash-for-beginners-specialization/unix-system-basics.pdf) |
 
+</div>
+
+<div align="justify">
+
 | Course | Certificate |
 | :----- | :----- |
 | [Linux OS](https://www.coursera.org/learn/illinois-tech-linux-os) | [**LINK**](https://storage.googleapis.com/earned-current/coursera/linux-os.pdf) |
 
 </div>
 
-<div align="left">
+#### Cloud Academy
 
-**Cloud Academy**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -35,9 +33,9 @@
 
 </div>
 
-<div align="left">
+#### A Cloud Guru
 
-**A Cloud Guru**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -49,9 +47,9 @@
 
 </div>
 
-<div align="left">
+#### Udemy
 
-**Udemy**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -61,9 +59,9 @@
 
 </div>
 
-<div align="left">
+#### edX
 
-**edX**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
