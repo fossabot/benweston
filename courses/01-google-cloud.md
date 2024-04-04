@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-### Google Cloud Skills Boost
+#### Google Cloud Skills Boost
 
 | Course | Certificate |
 | :----- | :----- |
@@ -15,7 +15,7 @@
 
 <div align="justify">
 
-### Coursera
+#### Coursera
 
 | Course | Certificate |
 | :----- | :----- |
@@ -71,7 +71,7 @@
 
 <div align="justify">
 
-### Cloud Academy
+#### Cloud Academy
 
 | Course | Certificate |
 | :----- | :----- |
@@ -82,7 +82,7 @@
 
 <div align="justify">
 
-### A Cloud Guru
+#### A Cloud Guru
 
 | Course | Certificate |
 | :----- | :----- |
@@ -93,7 +93,7 @@
 
 <div align="justify">
 
-### Udemy
+#### Udemy
 
 | Course | Certificate |
 | :----- | :----- |
