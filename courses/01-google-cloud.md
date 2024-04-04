@@ -17,6 +17,21 @@
 
 <div align="justify">
 
+| Course | Certificate |
+| :----- | :----- |
+| [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/631) | **QUEUED** |
+| [Build a Secure Google Cloud Network](https://www.cloudskillsboost.google/paths/36/course_templates/654) | **QUEUED** |
+| [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/637) | **QUEUED** |
+| [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/36/course_templates/648) | **QUEUED** |
+| [Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/156) | **QUEUED** |
+| [Google Cloud Computing Foundations: Networking & Security in Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/155) | **QUEUED** |
+| [Google Cloud Computing Foundations: Infrastructure in Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/154) | **QUEUED** |
+| [Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://www.cloudskillsboost.google/paths/36/course_templates/153) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
 #### Coursera
 
 | Course | Certificate |
