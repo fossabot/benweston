@@ -66,6 +66,23 @@
 | [LPIC-1: System Administrator – Exam 102 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-102-v5-objectives) | **QUEUED** |
 | [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-101-v5-objectives) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
+| [Linux System Security](https://www.pluralsight.com/cloud-guru/courses/linux-system-security) | **QUEUED** |
+| [Linux Email Services](https://www.pluralsight.com/cloud-guru/courses/linux-email-services) | **QUEUED** |
+| [Linux Network Client Management](https://www.pluralsight.com/cloud-guru/courses/linux-network-client-management) | **QUEUED** |
+| [Linux File Sharing](https://www.pluralsight.com/cloud-guru/courses/linux-file-sharing) | **QUEUED** |
+| [Linux Web Services](https://www.pluralsight.com/cloud-guru/courses/linux-web-services) | **QUEUED** |
+| [Linux Domain Name Server (DNS)](https://www.pluralsight.com/cloud-guru/courses/linux-domain-name-server-dns) | **QUEUED** |
+| [Linux System Maintenance](https://www.pluralsight.com/cloud-guru/courses/linux-system-maintenance) | **QUEUED** |
+| [Linux Filesystems and Devices](https://www.pluralsight.com/cloud-guru/courses/linux-filesystems-and-devices) | **QUEUED** |
+| [Linux System Startup](https://www.pluralsight.com/cloud-guru/courses/linux-system-startup) | **QUEUED** |
+| [The Linux Kernel](https://www.pluralsight.com/cloud-guru/courses/the-linux-kernel) | **QUEUED** |
+| [Linux Capacity Planning](https://www.pluralsight.com/cloud-guru/courses/linux-capacity-planning) | **QUEUED** |
+
+
+
+
+
+
 | [Learn Linux by Doing](https://www.pluralsight.com/cloud-guru/courses/learn-linux-by-doing) | **QUEUED** |
 | [Securing Linux for the Cloud](https://www.pluralsight.com/cloud-guru/courses/securing-linux-for-the-cloud) | **QUEUED** |
 | [Server Hardening Fundamentals](https://www.pluralsight.com/cloud-guru/courses/server-hardening-fundamentals) | **QUEUED** |
