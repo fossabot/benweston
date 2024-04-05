@@ -61,6 +61,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [LPIC-2: Linux Engineer Exam 202-450 Preparation](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-202-450-preparation) | **QUEUED** |
+| [LPIC-2: Linux Engineer Exam 201](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-201) | **QUEUED** |
 | [LPIC-1: System Administrator – Exam 102 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-102-v5-objectives) | **QUEUED** |
 | [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-101-v5-objectives) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
@@ -96,6 +98,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [LPIC-2 Linux Engineer (202-450)](https://www.udemy.com/course/lpic-2-linux-engineer-202-450/) | **QUEUED** |
+| [LPIC-2 Linux Engineer (201-450)](https://www.udemy.com/course/lpic-2-linux-engineer-201-450/) | **QUEUED** |
 | [LPIC-1 - Linux System Administrator Masterclass](https://www.udemy.com/course/lpic-1-linux-system-administrator-masterclass/) | **QUEUED** |
 | [Prep for the LPIC-1 Exam 102-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-102-500-linux-system-administrator/) |  |
 | [Prep for the LPIC-1 Exam 101-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-101-500-linux-system-administrator/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/prep-for-the-lpic1-exam-101-500.pdf) |
