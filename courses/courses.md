@@ -77,12 +77,6 @@
 | [Linux System Startup](https://www.pluralsight.com/cloud-guru/courses/linux-system-startup) | **QUEUED** |
 | [The Linux Kernel](https://www.pluralsight.com/cloud-guru/courses/the-linux-kernel) | **QUEUED** |
 | [Linux Capacity Planning](https://www.pluralsight.com/cloud-guru/courses/linux-capacity-planning) | **QUEUED** |
-
-
-
-
-
-
 | [Learn Linux by Doing](https://www.pluralsight.com/cloud-guru/courses/learn-linux-by-doing) | **QUEUED** |
 | [Securing Linux for the Cloud](https://www.pluralsight.com/cloud-guru/courses/securing-linux-for-the-cloud) | **QUEUED** |
 | [Server Hardening Fundamentals](https://www.pluralsight.com/cloud-guru/courses/server-hardening-fundamentals) | **QUEUED** |
