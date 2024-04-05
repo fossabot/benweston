@@ -82,6 +82,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [LPIC-1 - Linux System Administrator Masterclass](https://www.udemy.com/course/lpic-1-linux-system-administrator-masterclass/) | **QUEUED** |
 | [Prep for the LPIC-1 Exam 101-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-101-500-linux-system-administrator/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/prep-for-the-lpic1-exam-101-500.pdf) |
 | [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
 | [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
