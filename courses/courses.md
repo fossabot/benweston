@@ -55,6 +55,8 @@
 | [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-101-v5-objectives) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
 | [Learn Linux by Doing](https://www.pluralsight.com/cloud-guru/courses/learn-linux-by-doing) | **QUEUED** |
+| [Securing Linux for the Cloud](https://www.pluralsight.com/cloud-guru/courses/securing-linux-for-the-cloud) | **QUEUED** |
+| [Server Hardening Fundamentals](https://www.pluralsight.com/cloud-guru/courses/server-hardening-fundamentals) | **QUEUED** |
 | [Concepts for Securing Your Servers](https://www.pluralsight.com/cloud-guru/courses/concepts-for-securing-your-servers) | **QUEUED** |
 | [Linux Networking and Troubleshooting](https://www.pluralsight.com/cloud-guru/courses/linux-networking-and-troubleshooting) | **QUEUED** |
 | [Linux Network Configuration](https://www.pluralsight.com/cloud-guru/courses/linux-network-configuration) | **QUEUED** |
