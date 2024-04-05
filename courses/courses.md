@@ -16,6 +16,12 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Securing Linux Systems](https://www.coursera.org/learn/securing-linux-systems) | **QUEUED** |
+| [Linux Server Management and Security](https://www.coursera.org/learn/linux-server-management-security) | **QUEUED** |
+| [Managing Linux Systems](https://www.coursera.org/learn/managing-linux-systems) | **QUEUED** |
+| [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) | **QUEUED** |
+| [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) | **QUEUED** |
+| [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | **QUEUED** |
 | [Linux OS](https://www.coursera.org/learn/illinois-tech-linux-os) | [**LINK**](https://storage.googleapis.com/earned-current/01-01-coursera/linux-os.pdf) |
 
 </div>
