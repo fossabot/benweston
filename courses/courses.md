@@ -32,6 +32,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Linux Server Professional - LPIC-102](https://cloudacademy.com/learning-paths/linux-server-professional-lpic-2-2586/) |  |
 | [Linux Server Professional - LPIC-101](https://cloudacademy.com/learning-paths/linux-certification-lpic-1-8/) | [**LINK**](https://storage.googleapis.com/earned-current/01-02-cloud-academy/linux-server-professional-lpic-101.pdf) |
 | [Linux Security and Hardening](https://cloudacademy.com/learning-paths/linux-security-and-hardening-3023/) | **QUEUED** |
 | [Linux Administration Bootcamp](https://cloudacademy.com/learning-paths/linux-administration-bootcamp-3015/) | **QUEUED** |
@@ -50,6 +51,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [LPIC-1: System Administrator – Exam 102 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-102-v5-objectives) | **QUEUED** |
 | [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-101-v5-objectives) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
 | [Learn Linux by Doing](https://www.pluralsight.com/cloud-guru/courses/learn-linux-by-doing) | **QUEUED** |
@@ -83,6 +85,7 @@
 | Course | Certificate |
 | :----- | :----- |
 | [LPIC-1 - Linux System Administrator Masterclass](https://www.udemy.com/course/lpic-1-linux-system-administrator-masterclass/) | **QUEUED** |
+| [Prep for the LPIC-1 Exam 102-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-102-500-linux-system-administrator/) |  |
 | [Prep for the LPIC-1 Exam 101-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-101-500-linux-system-administrator/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/prep-for-the-lpic1-exam-101-500.pdf) |
 | [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
 | [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
