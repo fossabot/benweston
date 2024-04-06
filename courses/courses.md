@@ -8,7 +8,7 @@
 | [Container Creation and Orchestration Basics](https://www.coursera.org/learn/codio-container-creation-and-orchestration-basics?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Connecting to Devices and Networks](https://www.coursera.org/learn/codio-connecting-to-devices-and-networks?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Bash Scripting and System Configuration](https://www.coursera.org/learn/codio-bash-scripting-and-system-configuration?specialization=unix-and-bash-for-beginners) | **_IN PROGRESS_** |
-| [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | [**LINK**](https://storage.googleapis.com/earned-current/01-01-coursera/unix-and-bash-for-beginners-specialization/unix-system-basics.pdf) |
+| [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | [**LINK**](https://storage.googleapis.com/current-certs/01-01-coursera/unix-and-bash-for-beginners-specialization/unix-system-basics.pdf) |
 
 </div>
 
@@ -22,7 +22,7 @@
 | [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) | **QUEUED** |
 | [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) | **QUEUED** |
 | [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | **QUEUED** |
-| [Linux OS](https://www.coursera.org/learn/illinois-tech-linux-os) | [**LINK**](https://storage.googleapis.com/earned-current/01-01-coursera/linux-os.pdf) |
+| [Linux OS](https://www.coursera.org/learn/illinois-tech-linux-os) | [**LINK**](https://storage.googleapis.com/current-certs/01-01-coursera/linux-os.pdf) |
 
 </div>
 
@@ -33,7 +33,7 @@
 | Course | Certificate |
 | :----- | :----- |
 | [Linux Server Professional - LPIC-102](https://cloudacademy.com/learning-paths/linux-server-professional-lpic-2-2586/) | **QUEUED** |
-| [Linux Server Professional - LPIC-101](https://cloudacademy.com/learning-paths/linux-certification-lpic-1-8/) | [**LINK**](https://storage.googleapis.com/earned-current/01-02-cloud-academy/linux-server-professional-lpic-101.pdf) |
+| [Linux Server Professional - LPIC-101](https://cloudacademy.com/learning-paths/linux-certification-lpic-1-8/) | [**LINK**](https://storage.googleapis.com/current-certs/02-01-cloud-academy/linux-server-professional-lpic-101.pdf) |
 | [Linux Security and Hardening](https://cloudacademy.com/learning-paths/linux-security-and-hardening-3023/) | **QUEUED** |
 | [Linux Administration Bootcamp](https://cloudacademy.com/learning-paths/linux-administration-bootcamp-3015/) | **QUEUED** |
 | [Bash Challenge Gauntlet](https://cloudacademy.com/learning-paths/bash-challenge-gauntlet-7280/) | **QUEUED** |
@@ -41,7 +41,7 @@
 | [Linux Shell Scripting: A Project-Based Approach to Learning](https://cloudacademy.com/learning-paths/linux-shell-scripting-3094/) | **QUEUED** |
 | [Linux Command Line Byte Session](https://cloudacademy.com/learning-paths/linux-command-line-byte-session-273/) | **QUEUED** |
 | [Vim Masterclass](https://cloudacademy.com/learning-paths/vim-masterclass-3024/) | **QUEUED** |
-| [Learn Linux in 5 Days and Level Up Your Career](https://cloudacademy.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/earned-current/01-02-cloud-academy/learn-linux-in-5-days-and-level-up-your-career.pdf) |
+| [Learn Linux in 5 Days and Level Up Your Career](https://cloudacademy.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/current-certs/02-01-cloud-academy/learn-linux-in-5-days-and-level-up-your-career.pdf) |
 
 </div>
 
@@ -64,8 +64,8 @@
 | [LPIC-2: Linux Engineer Exam 202-450 Preparation](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-202-450-preparation) | **QUEUED** |
 | [LPIC-2: Linux Engineer Exam 201](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-201) | **QUEUED** |
 | [LPIC-1: System Administrator – Exam 102 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-102-v5-objectives) | **QUEUED** |
-| [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-101-v5-objectives) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
-| [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
+| [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-101-v5-objectives) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
+| [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
 | [Linux System Security](https://www.pluralsight.com/cloud-guru/courses/linux-system-security) | **QUEUED** |
 | [Linux Email Services](https://www.pluralsight.com/cloud-guru/courses/linux-email-services) | **QUEUED** |
 | [Linux Network Client Management](https://www.pluralsight.com/cloud-guru/courses/linux-network-client-management) | **QUEUED** |
@@ -98,8 +98,8 @@
 | [Vim - The Improved Editor](https://www.pluralsight.com/cloud-guru/courses/vim-the-improved-editor) | **QUEUED** |
 | [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | **_IN PROGRESS_** |
 | [The System Administrator’s Guide to Bash Scripting](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | **_IN PROGRESS_** |
-| [Introduction to Linux Virtualization from the Command Line](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-virtualization-from-the-command-line) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
-| [Overview of Linux](https://www.pluralsight.com/cloud-guru/courses/overview-of-linux) | [**LINK**](https://storage.googleapis.com/earned-current/01-03-a-cloud-guru/overview-of-linux.pdf) |
+| [Introduction to Linux Virtualization from the Command Line](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-virtualization-from-the-command-line) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
+| [Overview of Linux](https://www.pluralsight.com/cloud-guru/courses/overview-of-linux) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/overview-of-linux.pdf) |
 
 </div>
 
@@ -113,9 +113,9 @@
 | [LPIC-2 Linux Engineer (201-450)](https://www.udemy.com/course/lpic-2-linux-engineer-201-450/) | **QUEUED** |
 | [LPIC-1 - Linux System Administrator Masterclass](https://www.udemy.com/course/lpic-1-linux-system-administrator-masterclass/) | **QUEUED** |
 | [Prep for the LPIC-1 Exam 102-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-102-500-linux-system-administrator/) |  |
-| [Prep for the LPIC-1 Exam 101-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-101-500-linux-system-administrator/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/prep-for-the-lpic1-exam-101-500.pdf) |
-| [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
-| [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/earned-current/01-04-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
+| [Prep for the LPIC-1 Exam 101-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-101-500-linux-system-administrator/) | [**LINK**](https://storage.googleapis.com/current-certs/05-01-udemy/prep-for-the-lpic1-exam-101-500.pdf) |
+| [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/current-certs/05-01-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
+| [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/current-certs/05-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
 | [Mastering Linux: The Comprehensive Guide](https://www.udemy.com/course/mastering-linux/) | **QUEUED** |
 | [Complete Linux Training with Troubleshooting Skills](https://www.udemy.com/course/red-hat-linux-administration-advance-level-troubleshooting/) | **QUEUED** |
 | [Linux Administration: Build 5 Hands-On Linux Projects](https://www.udemy.com/course/linux-administration-build-hands-on-linux-projects/) | **QUEUED** |
@@ -139,6 +139,6 @@
 | :----- | :----- |
 | [Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | **_IN PROGRESS_** |
 | [LFS101x: Introduction to Linux (2024)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | **QUEUED** |
-| [LFS101x: Introduction to Linux (2021)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/earned-current/01-05-edx/lfs101x-introduction-to-linux.pdf) |
+| [LFS101x: Introduction to Linux (2021)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](hhttps://storage.googleapis.com/current-certs/06-01-edx/lfs101x-introduction-to-linux.pdf) |
 
 </div>
