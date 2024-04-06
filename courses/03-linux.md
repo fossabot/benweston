@@ -1,8 +1,6 @@
-## 03 Linux
+### Coursera
 
-<div align="left">
-
-**Coursera**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -18,9 +16,9 @@
 
 </div>
 
-<div align="left">
+### Cloud Academy
 
-**Cloud Academy**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -29,9 +27,9 @@
 
 </div>
 
-<div align="left">
+### A Cloud Guru
 
-**A Cloud Guru**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -43,9 +41,9 @@
 
 </div>
 
-<div align="left">
+### Udemy
 
-**Udemy**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -55,9 +53,9 @@
 
 </div>
 
-<div align="left">
+### edX
 
-**edX**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |

@@ -1,8 +1,6 @@
-## 02 Terraform
+### Coursera
 
-<div align="left">
-
-**Coursera**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -10,19 +8,9 @@
 
 </div>
 
-<div align="left">
+### Cloud Academy
 
-**Cloud Academy**   
-
-| Course | Certificate |
-| :----- | :----- |
-| []() | []() |
-
-</div>
-
-<div align="left">
-
-**A Cloud Guru**   
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
@@ -30,9 +18,19 @@
 
 </div>
 
-<div align="left">
+### A Cloud Guru
 
-**Udemy**   
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| []() | []() |
+
+</div>
+
+### Udemy
+
+<div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
