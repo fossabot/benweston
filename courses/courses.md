@@ -112,7 +112,7 @@
 | [LPIC-2 Linux Engineer (202-450)](https://www.udemy.com/course/lpic-2-linux-engineer-202-450/) | **QUEUED** |
 | [LPIC-2 Linux Engineer (201-450)](https://www.udemy.com/course/lpic-2-linux-engineer-201-450/) | **QUEUED** |
 | [LPIC-1 - Linux System Administrator Masterclass](https://www.udemy.com/course/lpic-1-linux-system-administrator-masterclass/) | **QUEUED** |
-| [Prep for the LPIC-1 Exam 102-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-102-500-linux-system-administrator/) |  |
+| [Prep for the LPIC-1 Exam 102-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-102-500-linux-system-administrator/) | **QUEUED** |
 | [Prep for the LPIC-1 Exam 101-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-101-500-linux-system-administrator/) | [**LINK**](https://storage.googleapis.com/current-certs/05-01-udemy/prep-for-the-lpic1-exam-101-500.pdf) |
 | [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/current-certs/05-01-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
 | [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/current-certs/05-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
@@ -139,6 +139,6 @@
 | :----- | :----- |
 | [Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | **_IN PROGRESS_** |
 | [LFS101x: Introduction to Linux (2024)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | **QUEUED** |
-| [LFS101x: Introduction to Linux (2021)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](hhttps://storage.googleapis.com/current-certs/06-01-edx/lfs101x-introduction-to-linux.pdf) |
+| [LFS101x: Introduction to Linux (2021)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/current-certs/06-01-edx/lfs101x-introduction-to-linux.pdf) |
 
 </div>
