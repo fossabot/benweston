@@ -96,7 +96,7 @@
 | [Advanced Vim Customization](https://www.pluralsight.com/cloud-guru/courses/advanced-vim-customization) | **QUEUED** |
 | [Text Editing with Vim](https://www.pluralsight.com/cloud-guru/courses/text-editing-with-vim) | **QUEUED** |
 | [Vim - The Improved Editor](https://www.pluralsight.com/cloud-guru/courses/vim-the-improved-editor) | **QUEUED** |
-| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | **_IN PROGRESS_** |
+| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/the-system-administrators-guide-to-bash-Scripting-new-2020.pdf) |
 | [The System Administrator’s Guide to Bash Scripting](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | **_IN PROGRESS_** |
 | [Introduction to Linux Virtualization from the Command Line](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-virtualization-from-the-command-line) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
 | [Overview of Linux](https://www.pluralsight.com/cloud-guru/courses/overview-of-linux) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/overview-of-linux.pdf) |
