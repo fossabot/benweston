@@ -139,6 +139,6 @@
 | :----- | :----- |
 | [Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | **_IN PROGRESS_** |
 | [LFS101x: Introduction to Linux (2024)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | **QUEUED** |
-| [LFS101x: Introduction to Linux (2021)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/current-certs/06-01-edx/lfs101x-introduction-to-linux.pdf) |
+| [LFS101x: Introduction to Linux (2021)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/course-certs/03-01-linux/02-05-edx/lfs101x-introduction-to-linux.pdf) |
 
 </div>
