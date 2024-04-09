@@ -68,9 +68,11 @@
 | Course | Certificate |
 | :----- | :----- |
 | [**Google Cloud Digital Leader Training Professional Certificate**](https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training) | **QUEUED** |
-| [Understanding Google Cloud Security and Operations](https://www.coursera.org/learn/understanding-google-cloud-security-and-operations?specialization=google-cloud-digital-leader-training) | **QUEUED** |
-| [Infrastructure and Application Modernization with Google Cloud](https://www.coursera.org/learn/google-cloud-product-fundamentals?specialization=google-cloud-digital-leader-training) | **QUEUED** |
-| [Innovating with Data and Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
+| [Scaling with Google Cloud Operations](https://www.coursera.org/learn/understanding-google-cloud-security-and-operations?specialization=google-cloud-digital-leader-training) | **QUEUED** |
+| [Trust and Security with Google Cloud](https://www.coursera.org/learn/trust-and-security-with-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
+| [Modernize Infrastructure and Applications with Google Cloud](https://www.coursera.org/learn/google-cloud-product-fundamentals?specialization=google-cloud-digital-leader-training) | **QUEUED** |
+| [Innovating with Google Cloud Artificial Intelligence](https://www.coursera.org/learn/innovating-with-google-cloud-artificial-intelligence?specialization=google-cloud-digital-leader-training) | **QUEUED** |
+| [Exploring Data Transformation with Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
 | [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
 
 </div>
