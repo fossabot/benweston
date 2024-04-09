@@ -8,7 +8,7 @@
 | [Container Creation and Orchestration Basics](https://www.coursera.org/learn/codio-container-creation-and-orchestration-basics?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Connecting to Devices and Networks](https://www.coursera.org/learn/codio-connecting-to-devices-and-networks?specialization=unix-and-bash-for-beginners) | **QUEUED** |
 | [Bash Scripting and System Configuration](https://www.coursera.org/learn/codio-bash-scripting-and-system-configuration?specialization=unix-and-bash-for-beginners) | **_IN PROGRESS_** |
-| [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | [**LINK**](https://storage.googleapis.com/current-certs/01-01-coursera/unix-and-bash-for-beginners-specialization/unix-system-basics.pdf) |
+| [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | [**LINK**](https://storage.googleapis.com/course-certs/03-01-linux/02-01-coursera/unix-and-bash-for-beginners-specialization/unix-system-basics.pdf) |
 
 </div>
 
@@ -22,7 +22,7 @@
 | [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) | **QUEUED** |
 | [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) | **QUEUED** |
 | [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | **QUEUED** |
-| [Linux OS](https://www.coursera.org/learn/illinois-tech-linux-os) | [**LINK**](https://storage.googleapis.com/current-certs/01-01-coursera/linux-os.pdf) |
+| [Linux OS](https://www.coursera.org/learn/illinois-tech-linux-os) | [**LINK**](https://storage.googleapis.com/course-certs/03-01-linux/02-01-coursera/linux-os.pdf) |
 
 </div>
 
