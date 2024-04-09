@@ -45,16 +45,6 @@
 
 </div>
 
-### Pluralsight
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
-| [LPIC-2: Linux Engineer (201-450 and 202-450)](https://www.pluralsight.com/paths/lpic-2) | **QUEUED** |
-
-</div>
-
 ### A Cloud Guru
 
 <div align="justify">
