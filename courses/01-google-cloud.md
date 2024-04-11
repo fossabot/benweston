@@ -24,7 +24,7 @@
 | [Modernize Infrastructure and Applications with Google Cloud](https://www.coursera.org/learn/google-cloud-product-fundamentals?specialization=google-cloud-digital-leader-training) | **QUEUED** |
 | [Innovating with Google Cloud Artificial Intelligence](https://www.coursera.org/learn/innovating-with-google-cloud-artificial-intelligence?specialization=google-cloud-digital-leader-training) | **QUEUED** |
 | [Exploring Data Transformation with Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
-| [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
+| [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certs/01-01-google-cloud/01-01-coursera/google-cloud-digital-leader-training/digital-transformation-with-google-cloud.pdf) |
 
 </div>
 
