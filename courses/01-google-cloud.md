@@ -161,7 +161,7 @@
 
 <div align="justify">
 
-| [Getting Started with Google Cloud Learning Path](https://www.cloudskillsboost.google/paths/8) | Certificate |
+| [Getting Started with Google Cloud Learning Path](https://www.cloudskillsboost.google/paths/8) |  |
 | :----- | :----- |
 | [Google Cloud Fundamentals for AWS Professionals](https://www.cloudskillsboost.google/paths/8/course_templates/38) | **QUEUED** |
 | [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/8/course_templates/631) | **QUEUED** |
