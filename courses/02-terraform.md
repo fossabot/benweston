@@ -30,12 +30,12 @@
 | Course | Certificate |
 | :----- | :----- |
 | [HashiCorp Certified Terraform Associate](https://www.pluralsight.com/cloud-guru/courses/hashicorp-certified-terraform-associate) | [**LINK**](https://storage.googleapis.com/course-certs/02-01-terraform/02-03-a-cloud-guru/hashicorp-certified-terraform-associate.pdf) |
-| [Advanced Terraform with GCP]() | **QUEUED** |
-| [Deploying Resources to GCP with Terraform]() | **QUEUED** |
-| [Introduction to Terraform Cloud]() | **QUEUED** |
-| [Hands-On Troubleshooting with Terraform]() | **QUEUED** |
-| [Creating a Terraform Configuration for Multi-Cloud Use]() | **QUEUED** |
-| [Using Terraform to Manage Applications and Infrastructure]() | **QUEUED** |
+| [Advanced Terraform with GCP](https://www.pluralsight.com/cloud-guru/courses/advanced-terraform-with-gcp) | **QUEUED** |
+| [Deploying Resources to GCP with Terraform](https://www.pluralsight.com/cloud-guru/courses/deploying-resources-to-gcp-with-terraform) | **QUEUED** |
+| [Introduction to Terraform Cloud](https://www.pluralsight.com/cloud-guru/courses/introduction-to-terraform-cloud) | **QUEUED** |
+| [Hands-On Troubleshooting with Terraform](https://www.pluralsight.com/cloud-guru/courses/hands-on-troubleshooting-with-terraform) | **QUEUED** |
+| [Creating a Terraform Configuration for Multi-Cloud Use](https://www.pluralsight.com/cloud-guru/courses/creating-a-terraform-configuration-for-multi-cloud-use) | **QUEUED** |
+| [Using Terraform to Manage Applications and Infrastructure](https://www.pluralsight.com/cloud-guru/courses/using-terraform-to-manage-applications-and-infrastructure) | **QUEUED** |
 
 </div>
 
