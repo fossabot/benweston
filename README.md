@@ -6,7 +6,7 @@
 
 <div align="left">
 
-> Currently studying to achieve Linux Professional Institute [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview/) and documenting my journey here.   
+> Cloud Engineer for [Springer Nature Group](https://www.linkedin.com/company/springernaturegroup/).   
 
 </div>
 
@@ -17,6 +17,12 @@
         <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
             <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="99.852588" height="94.912884" alt="Linux Essentials Icon" />
         </a>
+        <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
+            <img src="https://github.com/benweston/benweston/blob/google-version/img/terraform-associate-003.png" width="94.912884" height="94.912884" alt="Terraform Associate Icon" />
+        </a>
+        <a href="https://www.credly.com/badges/1fdddfeb-94d9-4f3e-8345-6ff18388631d/public_url">
+            <img src="https://github.com/benweston/benweston/blob/google-version/img/cloud-digital-leader.png" width="94.912884" height="94.912884" alt="Cloud Digital Leader Icon" />
+        </a>
     </p>
 </div>
 
@@ -24,7 +30,7 @@
 
 <div align="left">
     <p align="left">
-        <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md">
+        <a href="https://github.com/benweston/benweston/blob/google-version/courses/courses.md">
             <img src="https://github.com/benweston/benweston/blob/main/img/courses-icon.png" width="30" height="30" alt="Online Courses Icon" />
         </a>
     </p>
@@ -35,7 +41,7 @@
 <div align="left">
 
 The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
-Certification icons are used in accordance with the provided [terms and conditions](https://www.lpi.org/logos).   
+Certification badges are used in accordance with terms and conditions for [LPI](https://www.lpi.org/logos), [HashiCorp](https://www.hashicorp.com/certification), and [Google Cloud](https://cloud.google.com/certification/terms).   
 Banner image taken from photo by [Spiderplay](https://www.istockphoto.com/portfolio/Spiderplay?mediatype=photography) on [iStock](https://www.istockphoto.com/) under their [standard license](https://www.istockphoto.com/help/licenses).   
 
 </div>
