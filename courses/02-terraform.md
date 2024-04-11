@@ -29,7 +29,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [HashiCorp Certified Terraform Associate]() | **QUEUED** |
+| [HashiCorp Certified Terraform Associate](https://www.pluralsight.com/cloud-guru/courses/hashicorp-certified-terraform-associate) | [**LINK**](https://storage.googleapis.com/course-certs/02-01-terraform/02-03-a-cloud-guru/hashicorp-certified-terraform-associate.pdf) |
 | [Advanced Terraform with GCP]() | **QUEUED** |
 | [Deploying Resources to GCP with Terraform]() | **QUEUED** |
 | [Introduction to Terraform Cloud]() | **QUEUED** |
