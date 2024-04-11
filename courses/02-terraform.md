@@ -7,7 +7,7 @@
 | [Exam Prep: HashiCorp Certified Terraform Associate (003)](https://www.coursera.org/learn/exam-prep-hashicorp-certified-terraform-associate-003) | **QUEUED** |
 | [Getting Started with Terraform for Google Cloud](https://www.coursera.org/learn/getting-started-with-terraform-for-google-cloud) | **QUEUED** |
 | [Infrastructure Automation with Terraform](https://www.coursera.org/learn/infrastructure-automation-with-terraform) | **QUEUED** |
-| [Introduction to Terraform](https://www.coursera.org/learn/codio-terraform) | **QUEUED** |
+| [Introduction to Terraform](https://www.coursera.org/learn/codio-terraform) | [**LINK**](https://storage.googleapis.com/course-certs/02-01-terraform/02-01-coursera/introduction-to-terraform.pdf) |
 
 </div>
 
