@@ -114,7 +114,7 @@
 
 <div align="justify">
 
-| Cloud Engineer Learning Path | Certificate |
+| [Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11) |  |
 | :----- | :----- |
 | [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **QUEUED** |
 | [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | **QUEUED** |
@@ -133,7 +133,7 @@
 
 <div align="justify">
 
-| Cloud Digital Leader Learning Path | Certificate |
+| [Cloud Digital Leader Learning Path](https://www.cloudskillsboost.google/paths/9) |  |
 | :----- | :----- |
 | [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/course_templates/271) | **QUEUED** |
 | [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945) | **QUEUED** |
@@ -146,7 +146,7 @@
 
 <div align="justify">
 
-| Google Cloud Computing Foundations | Certificate |
+| [Google Cloud Computing Foundations](https://www.cloudskillsboost.google/paths/36) |  |
 | :----- | :----- |
 | [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/631) | **QUEUED** |
 | [Build a Secure Google Cloud Network](https://www.cloudskillsboost.google/paths/36/course_templates/654) | **QUEUED** |
