@@ -112,9 +112,7 @@
 
 <div align="justify">
 
-**Cloud Engineer Learning Path**   
-
-| Course | Certificate |
+| Cloud Engineer Learning Path | Certificate |
 | :----- | :----- |
 | [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **QUEUED** |
 | [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | **QUEUED** |
