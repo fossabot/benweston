@@ -17,9 +17,9 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Terraform Associate Certification Exam Preparation]() | **QUEUED** |
-| [The Infrastructure Developer's Guide to Terraform: GCP Edition]() | **QUEUED** |
-| [Solving Infrastructure Challenges with Terraform]() | **QUEUED** |
+| [Terraform Associate Certification Exam Preparation](https://cloudacademy.com/learning-paths/terraform-associate-certification-exam-preparation-1-2814/) | **QUEUED** |
+| [The Infrastructure Developer's Guide to Terraform: GCP Edition](https://cloudacademy.com/learning-paths/terraform-on-gcp-4773/) | **QUEUED** |
+| [Solving Infrastructure Challenges with Terraform](https://cloudacademy.com/learning-paths/solving-infrastructure-challenges-with-terraform-197/) | **QUEUED** |
 
 </div>
 
