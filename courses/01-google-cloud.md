@@ -133,9 +133,7 @@
 
 <div align="justify">
 
-**Cloud Digital Leader Learning Path**   
-
-| Course | Certificate |
+| Cloud Digital Leader Learning Path | Certificate |
 | :----- | :----- |
 | [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/course_templates/271) | **QUEUED** |
 | [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945) | **QUEUED** |
@@ -148,9 +146,7 @@
 
 <div align="justify">
 
-**Google Cloud Computing Foundations**   
-
-| Course | Certificate |
+| Google Cloud Computing Foundations | Certificate |
 | :----- | :----- |
 | [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/631) | **QUEUED** |
 | [Build a Secure Google Cloud Network](https://www.cloudskillsboost.google/paths/36/course_templates/654) | **QUEUED** |
@@ -165,9 +161,7 @@
 
 <div align="justify">
 
-**Getting Started with Google Cloud Learning Path**   
-
-| Course | Certificate |
+| Getting Started with Google Cloud Learning Path | Certificate |
 | :----- | :----- |
 | [Google Cloud Fundamentals for AWS Professionals](https://www.cloudskillsboost.google/paths/8/course_templates/38) | **QUEUED** |
 | [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/8/course_templates/631) | **QUEUED** |
