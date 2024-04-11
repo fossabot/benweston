@@ -45,10 +45,10 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [HashiCorp Certified: Terraform Associate - Hands-On Labs]() | **QUEUED** |
-| [HashiCorp Certified: Terraform Associate 2023]() | **QUEUED** |
+| [HashiCorp Certified: Terraform Associate - Hands-On Labs](https://www.udemy.com/course/terraform-hands-on-labs/) | **QUEUED** |
+| [HashiCorp Certified: Terraform Associate 2021](https://www.udemy.com/course/terraform-beginner-to-advanced/) | [**LINK**](https://storage.googleapis.com/course-certs/02-01-terraform/02-04-udemy/hashi-corp-certified-terraform-associate-2021.pdf) |
 | [HashiCorp Certified: Terraform Associate Prep Course](https://www.udemy.com/course/terraform-associate-prep-course/) | [**LINK**](https://storage.googleapis.com/course-certs/02-01-terraform/02-04-udemy/terraform-associate-prep-course-2020.pdf) |
-| [Terraform Mastery: Road to Senior Engineer]() | **QUEUED** |
+| [Terraform Mastery: Road to Senior Engineer](https://www.udemy.com/course/terraform-mastery-road-to-senior-engineer/) | **QUEUED** |
 | [Building Cloud Infrastructure with Terraform](https://www.udemy.com/course/building-cloud-infrastructure-with-terraform/) | [**LINK**](https://storage.googleapis.com/course-certs/02-01-terraform/02-04-udemy/building-cloud-infrastructure-with-terraform.pdf) |
 
 </div>
