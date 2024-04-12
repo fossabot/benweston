@@ -84,6 +84,13 @@
 | :----- | :----- |
 | [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | **QUEUED** |
 | [Google Cloud Digital Leader Exam Preparation](https://cloudacademy.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certs/01-01-google-cloud/01-02-cloud-academy/google-cloud-digital-leader-exam-preparation.pdf) |
+| [Google BigQuery](https://cloudacademy.com/learning-paths/google-bigquery-44/) | **QUEUED** |
+| [Developing for Google Kubernetes Engine](https://cloudacademy.com/learning-paths/developing-for-google-kubernetes-engine-3754/) | **QUEUED** |
+| [Architecting with Google Kubernetes Engine](https://cloudacademy.com/learning-paths/architecting-with-google-kubernetes-engine-3751/) | **QUEUED** |
+| [Google Cloud Platform for Cloud Engineers](https://cloudacademy.com/learning-paths/google-cloud-platform-for-system-administrators-56/) | **QUEUED** |
+| [Deepen Your GCP Knowledge](https://cloudacademy.com/learning-paths/deepen-your-gcp-knowledge-5665/) | **QUEUED** |
+| [Google Cloud Platform Technical Essentials](https://cloudacademy.com/learning-paths/google-cloud-platform-technical-essentials-3755/) | **QUEUED** |
+| [Google Cloud Platform Fundamentals](https://cloudacademy.com/learning-paths/google-cloud-platform-fundamentals-54/) | **QUEUED** |
 
 </div>
 
@@ -95,6 +102,28 @@
 | :----- | :----- |
 | [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | **QUEUED** |
 | [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certs/01-01-google-cloud/01-03-a-cloud-guru/google-cloud-certified-cloud-digital-leader.pdf) |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
+| []() | **QUEUED** |
 
 </div>
 
