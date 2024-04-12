@@ -102,28 +102,28 @@
 | :----- | :----- |
 | [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | **QUEUED** |
 | [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certs/01-01-google-cloud/01-03-a-cloud-guru/google-cloud-certified-cloud-digital-leader.pdf) |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
-| []() | **QUEUED** |
+| [Learn Google Cloud by Doing](https://www.pluralsight.com/cloud-guru/courses/learn-google-cloud-by-doing) | **QUEUED** |
+| [GCP Cost Optimization Deep Dive](https://www.pluralsight.com/cloud-guru/courses/gcp-cost-optimization-deep-dive) | **QUEUED** |
+| [Infrastructure as Code on GCP with Deployment Manager](https://www.pluralsight.com/cloud-guru/courses/infrastructure-as-code-on-gcp-with-deployment-manager) | **QUEUED** |
+| [Workflow Orchestration with Google Cloud Composer](https://www.pluralsight.com/cloud-guru/courses/workflow-orchestration-with-google-cloud-composer) | **QUEUED** |
+| [Google Cloud AI Services Deep Dive](https://www.pluralsight.com/cloud-guru/courses/google-cloud-ai-services-deep-dive) | **QUEUED** |
+| [Google Cloud SQL Deep Dive](https://www.pluralsight.com/cloud-guru/courses/google-cloud-sql-deep-dive) | **QUEUED** |
+| [Architecting Deployment Pipelines on GCP](https://www.pluralsight.com/cloud-guru/courses/architecting-deployment-pipelines-on-gcp) | **QUEUED** |
+| [Hands-On with Google Cloud Functions](https://www.pluralsight.com/cloud-guru/courses/hands-on-with-google-cloud-functions) | **QUEUED** |
+| [Google Cloud Functions Deep Dive](https://www.pluralsight.com/cloud-guru/courses/google-cloud-functions-deep-dive) | **QUEUED** |
+| [Google Cloud Run Deep Dive](https://www.pluralsight.com/cloud-guru/courses/google-cloud-run-deep-dive) | **QUEUED** |
+| [Launching and Updating a Website Using Cloud Run](https://www.pluralsight.com/cloud-guru/courses/launching-and-updating-a-website-using-cloud-run) | **QUEUED** |
+| [Introduction to Serverless on Google Cloud](https://www.pluralsight.com/cloud-guru/courses/introduction-to-serverless-on-google-cloud) | **QUEUED** |
+| [Running Linux Servers on Google Cloud](https://www.pluralsight.com/cloud-guru/courses/running-linux-servers-on-google-cloud) | **QUEUED** |
+| [Advanced Google Cloud Compute Engine](https://www.pluralsight.com/cloud-guru/courses/advanced-google-cloud-compute-engine) | **QUEUED** |
+| [Google Cloud Security Essentials](https://www.pluralsight.com/cloud-guru/courses/google-cloud-security-essentials) | **QUEUED** |
+| [Google Cloud Identity and Access Management (IAM) Deep Dive](https://www.pluralsight.com/cloud-guru/courses/google-cloud-identity-and-access-management-iam-deep-dive) | **QUEUED** |
+| [Introduction to Google Cloud Security](https://www.pluralsight.com/cloud-guru/courses/introduction-to-google-cloud-security) | **QUEUED** |
+| [Establishing an Organization on Google Cloud Platform](https://www.pluralsight.com/cloud-guru/courses/establishing-an-organization-on-google-cloud-platform) | **QUEUED** |
+| [Google Cloud Essentials](https://www.pluralsight.com/cloud-guru/courses/google-cloud-essentials) | **QUEUED** |
+| [Introduction to Google Cloud](https://www.pluralsight.com/cloud-guru/courses/introduction-to-google-cloud) | **QUEUED** |
+| [Crash Course on Google Cloud Platform](https://www.pluralsight.com/cloud-guru/courses/crash-course-on-google-cloud-platform) | **QUEUED** |
+| [Overview of Google Cloud](https://www.pluralsight.com/cloud-guru/courses/overview-of-google-cloud) | **QUEUED** |
 
 </div>
 
