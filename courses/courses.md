@@ -440,3 +440,12 @@
 | [LFS101x: Introduction to Linux (2021)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/course-certs/03-01-linux/02-05-edx/lfs101x-introduction-to-linux.pdf) |
 
 </div>
+
+<div align="left">
+    <p align="left">
+        Return to top
+        <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md#courses">
+            <img src="https://github.com/benweston/benweston/blob/main/img/up-arrow.svg" width="30" height="30" alt="Up Arrow Icon" />
+        </a>
+    </p>
+</div>
