@@ -443,9 +443,7 @@
 
 <div align="left">
     <p align="left">
-        <b></b>
-        <b></b>
-        <b></b>
+        <br />
         <b>Return to top</b>
         <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md#courses">
             <img src="https://github.com/benweston/benweston/blob/main/img/up-arrow.svg" width="30" height="30" alt="Up Arrow Icon" />
