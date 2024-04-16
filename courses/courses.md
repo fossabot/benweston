@@ -204,13 +204,3 @@
 | [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/course_templates/266) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5002699) |
 
 </div>
-
-<div align="left">
-    <p align="left">
-        <br />
-        <b>Return to top</b>
-        <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md#coursera">
-            <img src="https://github.com/benweston/benweston/blob/main/img/up-arrow.svg" width="30" height="30" alt="Up Arrow Icon" />
-        </a>
-    </p>
-</div>
