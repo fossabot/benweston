@@ -4,7 +4,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering) | **QUEUED** |
+| [**Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/gcp-data-engineering) | **QUEUED** |
 | [Preparing for your Professional Data Engineer Journey](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam?specialization=gcp-data-engineering) | **QUEUED** |
 | [Smart Analytics, Machine Learning, and AI on Google Cloud](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp?specialization=gcp-data-engineering) | **QUEUED** |
 | [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-engineering) | **QUEUED** |
@@ -18,7 +18,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-security) | **QUEUED** |
+| [**Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/google-cloud-security) | **QUEUED** |
 | [Hands-On Labs in Google Cloud for Security Engineers](https://www.coursera.org/learn/hands-on-labs-google-cloud-security-engineer?specialization=google-cloud-security) | **QUEUED** |
 | [Mitigating Security Vulnerabilities on Google Cloud](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp?specialization=google-cloud-security) | **QUEUED** |
 | [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud?specialization=google-cloud-security) | **QUEUED** |
