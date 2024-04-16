@@ -15,7 +15,7 @@
 <div align="left">
     <p align="left">
         <a href="https://www.credly.com/badges/1fdddfeb-94d9-4f3e-8345-6ff18388631d/public_url">
-            <img src="https://github.com/benweston/benweston/blob/main/img/cloud-digital-leader.png" width="110" height="110" alt="Cloud Digital Leader Icon" />
+            <img src="https://github.com/benweston/benweston/blob/main/img/cloud-digital-leader.png" width="120" height="120" alt="Cloud Digital Leader Icon" />
         </a>
     </p>
 </div>
