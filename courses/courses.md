@@ -132,16 +132,6 @@
 
 </div>
 
-**Udemy**   
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
-| [Google Cloud Associate Cloud Engineer: Get Certified 2024](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/) | **QUEUED** |
-
-</div>
-
 **Google Cloud Skills Boost**   
 
 <div align="justify">
