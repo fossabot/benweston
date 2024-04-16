@@ -136,6 +136,45 @@
 
 <div align="justify">
 
+| [Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16) |  |
+| :----- | :----- |
+| [Build a Data Mesh with Dataplex](https://www.cloudskillsboost.google/paths/16/course_templates/681) | **QUEUED** |
+| [Engineer Data for Predictive Modeling with BigQuery ML](https://www.cloudskillsboost.google/paths/16/course_templates/627) | **QUEUED** |
+| [Build a Data Warehouse with BigQuery](https://www.cloudskillsboost.google/paths/16/course_templates/624) | **QUEUED** |
+| [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/631) | **QUEUED** |
+| [Serverless Data Processing with Dataflow: Operations](https://www.cloudskillsboost.google/paths/16/course_templates/264) | **QUEUED** |
+| [Serverless Data Processing with Dataflow: Develop Pipelines](https://www.cloudskillsboost.google/paths/16/course_templates/229) | **QUEUED** |
+| [Serverless Data Processing with Dataflow: Foundations](https://www.cloudskillsboost.google/paths/16/course_templates/218) | **QUEUED** |
+| [Smart Analytics, Machine Learning, and AI on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/55) | **QUEUED** |
+| [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/52) | **QUEUED** |
+| [Building Batch Data Pipelines on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/53) | **QUEUED** |
+| [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/54) | **QUEUED** |
+| [Preparing for your Professional Data Engineer Journey](https://www.cloudskillsboost.google/paths/16/course_templates/72) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| [Security Engineer Learning Path](https://www.cloudskillsboost.google/paths/15) |  |
+| :----- | :----- |
+| [Mitigate Threats and Vulnerabilities with Security Command Center](https://www.cloudskillsboost.google/paths/15/course_templates/759) | **QUEUED** |
+| [Securing your Network with Cloud Armor](https://www.cloudskillsboost.google/paths/15/course_templates/785) | **QUEUED** |
+| [Google Kubernetes Engine Best Practices: Security](https://www.cloudskillsboost.google/paths/15/course_templates/732) | **QUEUED** |
+| [Implement Cloud Security Fundamentals on Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/645) | **QUEUED** |
+| [Build a Secure Google Cloud Network](https://www.cloudskillsboost.google/paths/15/course_templates/654) | **QUEUED** |
+| [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/99) | **QUEUED** |
+| [Mitigating Security Vulnerabilities on Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/88) | **QUEUED** |
+| [Security Best Practices in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/87) | **QUEUED** |
+| [Managing Security in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/21) | **QUEUED** |
+| [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.cloudskillsboost.google/paths/15/course_templates/36) | **QUEUED** |
+| [Networking in Google Cloud: Defining and Implementing Networks](https://www.cloudskillsboost.google/paths/15/course_templates/35) | **QUEUED** |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/paths/15/course_templates/60) | **QUEUED** |
+| [Preparing for Your Professional Cloud Security Engineer Journey](https://www.cloudskillsboost.google/paths/15/course_templates/397) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
 | [Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11) |  |
 | :----- | :----- |
 | [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **QUEUED** |
@@ -163,74 +202,6 @@
 | [Innovating with Google Cloud Artificial Intelligence](https://www.cloudskillsboost.google/paths/9/course_templates/946) | **QUEUED** |
 | [Exploring Data Transformation with Google Cloud](https://www.cloudskillsboost.google/course_templates/267) | **QUEUED** |
 | [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/course_templates/266) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5002699) |
-
-</div>
-
-<div align="justify">
-
-| [Google Cloud Computing Foundations](https://www.cloudskillsboost.google/paths/36) |  |
-| :----- | :----- |
-| [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/631) | **QUEUED** |
-| [Build a Secure Google Cloud Network](https://www.cloudskillsboost.google/paths/36/course_templates/654) | **QUEUED** |
-| [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/637) | **QUEUED** |
-| [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/36/course_templates/648) | **QUEUED** |
-| [Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/156) | **QUEUED** |
-| [Google Cloud Computing Foundations: Networking & Security in Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/155) | **QUEUED** |
-| [Google Cloud Computing Foundations: Infrastructure in Google Cloud](https://www.cloudskillsboost.google/paths/36/course_templates/154) | **QUEUED** |
-| [Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://www.cloudskillsboost.google/paths/36/course_templates/153) | **QUEUED** |
-
-</div>
-
-<div align="justify">
-
-| [Getting Started with Google Cloud Learning Path](https://www.cloudskillsboost.google/paths/8) |  |
-| :----- | :----- |
-| [Google Cloud Fundamentals for AWS Professionals](https://www.cloudskillsboost.google/paths/8/course_templates/38) | **QUEUED** |
-| [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/8/course_templates/631) | **QUEUED** |
-| [Google Cloud Big Data and Machine Learning Fundamentals](https://www.cloudskillsboost.google/paths/8/course_templates/3) | **QUEUED** |
-| [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/8/course_templates/637) | **QUEUED** |
-| [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/paths/8/course_templates/60) | **QUEUED** |
-| [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/8/course_templates/648) | **QUEUED** |
-
-</div>
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
-| [Monitoring in Google Cloud](https://www.cloudskillsboost.google/course_templates/747) | **QUEUED** |
-| [Monitor and Manage Google Cloud Resources](https://www.cloudskillsboost.google/course_templates/653) | **QUEUED** |
-| [Monitor and Log with Google Cloud Operations Suite](https://www.cloudskillsboost.google/course_templates/749) | **QUEUED** |
-| [Manage Bigtable on Google Cloud](https://www.cloudskillsboost.google/course_templates/650) | **QUEUED** |
-| [Create and Manage AlloyDB Databases](https://www.cloudskillsboost.google/course_templates/642) | **QUEUED** |
-| [Create and Manage Cloud Spanner Databases](https://www.cloudskillsboost.google/course_templates/643) | **QUEUED** |
-| [Manage PostgreSQL Databases on Cloud SQL](https://www.cloudskillsboost.google/course_templates/652) | **QUEUED** |
-| [Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/course_templates/623) | **QUEUED** |
-| [Build a Data Warehouse with BigQuery](https://www.cloudskillsboost.google/course_templates/624) | **QUEUED** |
-| [Streaming Analytics into BigQuery](https://www.cloudskillsboost.google/course_templates/752) | **QUEUED** |
-| [Analyze BigQuery Data in Connected Sheets](https://www.cloudskillsboost.google/course_templates/632) | **QUEUED** |
-| [Store, Process, and Manage Data on Google Cloud - Console](https://www.cloudskillsboost.google/course_templates/658) | **QUEUED** |
-| [Store, Process, and Manage Data on Google Cloud - Command Line](https://www.cloudskillsboost.google/course_templates/659) | **QUEUED** |
-| [Build a Website on Google Cloud](https://www.cloudskillsboost.google/course_templates/638) | **QUEUED** |
-| [Cloud Architecture: Design, Implement, and Manage](https://www.cloudskillsboost.google/course_templates/640) | **QUEUED** |
-| [Set Up a Google Cloud Network](https://www.cloudskillsboost.google/course_templates/641) | **QUEUED** |
-| [Networking Fundamentals on Google Cloud](https://www.cloudskillsboost.google/course_templates/748) | **QUEUED** |
-| [Implement Cloud Security Fundamentals on Google Cloud](https://www.cloudskillsboost.google/course_templates/645) | **QUEUED** |
-| [Configure Service Accounts and IAM Roles for Google Cloud](https://www.cloudskillsboost.google/course_templates/702) | **QUEUED** |
-| [Get Started with API Gateway](https://www.cloudskillsboost.google/course_templates/662) | **QUEUED** |
-| [Get Started with Pub/Sub](https://www.cloudskillsboost.google/course_templates/728) | **QUEUED** |
-| [Develop Serverless Apps with Firebase](https://www.cloudskillsboost.google/course_templates/649) | **QUEUED** |
-| [Develop Serverless Applications on Cloud Run](https://www.cloudskillsboost.google/course_templates/741) | **QUEUED** |
-| [Cloud Functions: 3 Ways](https://www.cloudskillsboost.google/course_templates/696) | **QUEUED** |
-| [App Engine: 3 Ways](https://www.cloudskillsboost.google/course_templates/671) | **QUEUED** |
-| [Optimize Costs for Google Kubernetes Engine](https://www.cloudskillsboost.google/course_templates/655) | **QUEUED** |
-| [Manage Kubernetes in Google Cloud](https://www.cloudskillsboost.google/course_templates/783) | **QUEUED** |
-| [Deploy Kubernetes Applications on Google Cloud](https://www.cloudskillsboost.google/course_templates/663) | **QUEUED** |
-| [Create a Secure Data Lake on Cloud Storage](https://www.cloudskillsboost.google/course_templates/704) | **QUEUED** |
-| [Create a Streaming Data Lake on Cloud Storage](https://www.cloudskillsboost.google/course_templates/705) | **QUEUED** |
-| [Use APIs to Work with Cloud Storage](https://www.cloudskillsboost.google/course_templates/755) | **QUEUED** |
-| [Get Started with Cloud Storage](https://www.cloudskillsboost.google/course_templates/725) | **QUEUED** |
-| [The Basics of Google Cloud Compute](https://www.cloudskillsboost.google/course_templates/754) | **QUEUED** |
 
 </div>
 
