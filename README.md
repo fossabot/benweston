@@ -4,9 +4,9 @@
 
 # Ben Weston
 
-<div align="justify">
+<div align="left">
 
-> Cloud Engineer for [Springer Nature Group](https://www.linkedin.com/company/springernaturegroup/).   
+> Currently studying to achieve Linux Professional Institute [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview/) and documenting my journey here.   
 
 </div>
 
@@ -14,8 +14,8 @@
 
 <div align="left">
     <p align="left">
-        <a href="https://www.credly.com/badges/1fdddfeb-94d9-4f3e-8345-6ff18388631d/public_url">
-            <img src="https://github.com/benweston/benweston/blob/main/img/cloud-digital-leader.png" width="120" height="120" alt="Cloud Digital Leader Icon" />
+        <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
+            <img src="https://github.com/benweston/benweston/blob/legacy/img/linux-essentials.png" width="109.837847" height="104.404172" alt="Linux Essentials Icon" />
         </a>
     </p>
 </div>
@@ -35,7 +35,7 @@
 <div align="left">
 
 The benweston repository contents are provided under the [MIT License](https://github.com/benweston/benweston/blob/main/LICENSE).   
-Certification badges are used in accordance with terms and conditions for [Google Cloud](https://cloud.google.com/certification/terms).   
+Certification icons are used in accordance with the provided [terms and conditions](https://www.lpi.org/logos).   
 Banner image taken from photo by [Spiderplay](https://www.istockphoto.com/portfolio/Spiderplay?mediatype=photography) on [iStock](https://www.istockphoto.com/) under their [standard license](https://www.istockphoto.com/help/licenses).   
 
 </div>
