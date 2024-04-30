@@ -17,6 +17,9 @@
         <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
             <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="109.837847" height="104.404172" alt="Linux Essentials Icon" />
         </a>
+        <a href="https://www.credly.com/badges/be9bb832-72df-41bb-98ba-3b34fd3972ba/public_url">
+            <img src="https://github.com/benweston/benweston/blob/main/img/linux-commands-shell-scripting.png" width="104.404172" height="104.404172" alt="Linux Bash Scripting Icon" />
+        </a>
     </p>
 </div>
 
