@@ -137,6 +137,8 @@
 | Course | Certificate |
 | :----- | :----- |
 | [Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | [**LINK**](https://storage.googleapis.com/current-certs/06-01-edx/lx0117en-linux-commands-and-shell-scripting.pdf) |
+| [Linux Networking and Administration (LFS211)](https://training.linuxfoundation.org/training/linux-networking-and-administration/) | **QUEUED** |
+| [Linux System Administration Essentials (LFS207)](https://training.linuxfoundation.org/training/linux-system-administration-essentials-lfs207/) | **QUEUED** |
 | [LinuxFoundationX: Introduction to Linux (2024)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | **_IN PROGRESS_** |
 | [LinuxFoundationX: Introduction to Linux (2020)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/current-certs/06-01-edx/lfs101x-introduction-to-linux.pdf) |
 
