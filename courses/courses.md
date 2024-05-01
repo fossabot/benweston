@@ -137,7 +137,7 @@
 | Course | Certificate |
 | :----- | :----- |
 | [Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | [**LINK**](https://storage.googleapis.com/current-certs/06-01-edx/lx0117en-linux-commands-and-shell-scripting.pdf) |
-| [LFS101x: Introduction to Linux (2024)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | **_IN PROGRESS_** |
-| [LFS101x: Introduction to Linux (2020)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/current-certs/06-01-edx/lfs101x-introduction-to-linux.pdf) |
+| [LinuxFoundationX: Introduction to Linux (2024)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | **_IN PROGRESS_** |
+| [LinuxFoundationX: Introduction to Linux (2020)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/current-certs/06-01-edx/lfs101x-introduction-to-linux.pdf) |
 
 </div>
