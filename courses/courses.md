@@ -130,17 +130,6 @@
 
 </div>
 
-### The Linux Foundation
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
-| [Linux Networking and Administration (LFS211)](https://training.linuxfoundation.org/training/linux-networking-and-administration/) | **QUEUED** |
-| [Linux System Administration Essentials (LFS207)](https://training.linuxfoundation.org/training/linux-system-administration-essentials-lfs207/) | **QUEUED** |
-
-</div>
-
 ### edX
 
 <div align="justify">
