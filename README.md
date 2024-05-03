@@ -15,7 +15,7 @@
 <div align="left">
     <p align="left">
         <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
-            <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="104.345955" height="99.1839634" alt="Linux Essentials Icon" />
+            <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="109.563253" height="104.143162" alt="Linux Essentials Icon" />
         </a>
     </p>
 </div>
