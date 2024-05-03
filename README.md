@@ -6,7 +6,7 @@
 
 <div align="left">
 
-> Cloud Engineer for [Springer Nature Group](https://www.linkedin.com/company/springernaturegroup/).   
+> Currently studying to achieve Linux Professional Institute [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview/) and documenting my journey here.   
 
 </div>
 
@@ -16,22 +16,6 @@
     <p align="left">
         <a href="https://lpi.org/verify/LPI000423983/mbdrzy6994">
             <img src="https://github.com/benweston/benweston/blob/main/img/linux-essentials.png" width="104.345955" height="99.1839634" alt="Linux Essentials Icon" />
-        </a>
-        <a href="https://www.credly.com/badges/a8eeb3a2-7db9-4d67-ba0d-3094fdec72fb/public_url">
-            <img src="https://github.com/benweston/benweston/blob/main/img/terraform-associate-003.png" width="99.1839634" height="99.1839634" alt="Terraform Associate Icon" />
-        </a>
-        <a href="https://www.credly.com/badges/1fdddfeb-94d9-4f3e-8345-6ff18388631d/public_url">
-            <img src="https://github.com/benweston/benweston/blob/main/img/cloud-digital-leader.png" width="99.1839634" height="99.1839634" alt="Cloud Digital Leader Icon" />
-        </a>
-    </p>
-</div>
-
-## Training
-
-<div align="left">
-    <p align="left">
-        <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md">
-            <img src="https://github.com/benweston/benweston/blob/main/img/courses-icon.png" width="50" height="50" alt="Courses Icon" />
         </a>
     </p>
 </div>
