@@ -27,3 +27,14 @@
 | [Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
 
 </div>
+
+### Cloud Academy
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | **QUEUED** |
+| [Google Cloud Digital Leader Exam Preparation](https://cloudacademy.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | **QUEUED** |
+
+</div>
