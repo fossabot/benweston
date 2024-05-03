@@ -39,7 +39,7 @@
 
 </div>
 
-**A Cloud Guru**   
+### A Cloud Guru
 
 <div align="justify">
 
