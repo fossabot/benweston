@@ -26,16 +26,6 @@
     </p>
 </div>
 
-## Training
-
-<div align="left">
-    <p align="left">
-        <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md">
-            <img src="https://github.com/benweston/benweston/blob/main/img/courses-icon.png" width="40" height="40" alt="Online Courses Icon" />
-        </a>
-    </p>
-</div>
-
 ## License
 
 <div align="left">
