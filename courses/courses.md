@@ -38,3 +38,14 @@
 | [Google Cloud Digital Leader Exam Preparation](https://cloudacademy.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | **QUEUED** |
 
 </div>
+
+**A Cloud Guru**   
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | **QUEUED** |
+| [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | **QUEUED** |
+
+</div>
