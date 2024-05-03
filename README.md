@@ -31,7 +31,7 @@
 <div align="left">
     <p align="left">
         <a href="https://github.com/benweston/benweston/blob/main/courses/courses.md">
-            <img src="https://github.com/benweston/benweston/blob/main/img/courses-icon.png" width="80" height="80" alt="Courses Icon" />
+            <img src="https://github.com/benweston/benweston/blob/main/img/courses-icon.png" width="50" height="50" alt="Courses Icon" />
         </a>
     </p>
 </div>
