@@ -44,57 +44,13 @@
 
 </div>
 
-### Pluralsight
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
-| [LPIC-2: Linux Engineer (201-450 and 202-450)](https://www.pluralsight.com/paths/lpic-2) | **QUEUED** |
-
-</div>
-
 ### A Cloud Guru
 
 <div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
-| [LPIC-2: Linux Engineer Exam 202-450 Preparation](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-202-450-preparation) | **QUEUED** |
-| [LPIC-2: Linux Engineer Exam 201](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-201) | **QUEUED** |
-| [LPIC-1: System Administrator – Exam 102 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-102-v5-objectives) | **QUEUED** |
-| [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-101-v5-objectives) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
-| [Linux System Security](https://www.pluralsight.com/cloud-guru/courses/linux-system-security) | **QUEUED** |
-| [Linux Email Services](https://www.pluralsight.com/cloud-guru/courses/linux-email-services) | **QUEUED** |
-| [Linux Network Client Management](https://www.pluralsight.com/cloud-guru/courses/linux-network-client-management) | **QUEUED** |
-| [Linux File Sharing](https://www.pluralsight.com/cloud-guru/courses/linux-file-sharing) | **QUEUED** |
-| [Linux Web Services](https://www.pluralsight.com/cloud-guru/courses/linux-web-services) | **QUEUED** |
-| [Linux Domain Name Server (DNS)](https://www.pluralsight.com/cloud-guru/courses/linux-domain-name-server-dns) | **QUEUED** |
-| [Linux System Maintenance](https://www.pluralsight.com/cloud-guru/courses/linux-system-maintenance) | **QUEUED** |
-| [Linux Filesystems and Devices](https://www.pluralsight.com/cloud-guru/courses/linux-filesystems-and-devices) | **QUEUED** |
-| [Linux System Startup](https://www.pluralsight.com/cloud-guru/courses/linux-system-startup) | **QUEUED** |
-| [The Linux Kernel](https://www.pluralsight.com/cloud-guru/courses/the-linux-kernel) | **QUEUED** |
-| [Linux Capacity Planning](https://www.pluralsight.com/cloud-guru/courses/linux-capacity-planning) | **QUEUED** |
-| [Learn Linux by Doing](https://www.pluralsight.com/cloud-guru/courses/learn-linux-by-doing) | **QUEUED** |
-| [Securing Linux for the Cloud](https://www.pluralsight.com/cloud-guru/courses/securing-linux-for-the-cloud) | **QUEUED** |
-| [Server Hardening Fundamentals](https://www.pluralsight.com/cloud-guru/courses/server-hardening-fundamentals) | **QUEUED** |
-| [Concepts for Securing Your Servers](https://www.pluralsight.com/cloud-guru/courses/concepts-for-securing-your-servers) | **QUEUED** |
-| [Linux Networking and Troubleshooting](https://www.pluralsight.com/cloud-guru/courses/linux-networking-and-troubleshooting) | **QUEUED** |
-| [Linux Network Configuration](https://www.pluralsight.com/cloud-guru/courses/linux-network-configuration) | **QUEUED** |
-| [Networking Foundations](https://www.pluralsight.com/cloud-guru/courses/networking-foundations) | **QUEUED** |
-| [Advanced Storage and Device Administration in Linux](https://www.pluralsight.com/cloud-guru/courses/advanced-storage-and-device-administration-in-linux) | **QUEUED** |
-| [Managing and Troubleshooting Encrypted Volumes in Linux](https://www.pluralsight.com/cloud-guru/courses/managing-and-troubleshooting-encrypted-volumes-in-linux) | **QUEUED** |
-| [Managing and Troubleshooting File and Directory Permissions in Linux](https://www.pluralsight.com/cloud-guru/courses/managing-and-troubleshooting-file-and-directory-permissions-in-linux) | **QUEUED** |
-| [Linux User Management Deep Dive](https://www.pluralsight.com/cloud-guru/courses/linux-user-management-deep-dive) | **QUEUED** |
-| [Introduction to LVM](https://www.pluralsight.com/cloud-guru/courses/introduction-to-lvm) | **QUEUED** |
-| [Mastering Systemd](https://www.pluralsight.com/cloud-guru/courses/mastering-systemd) | **QUEUED** |
-| [systemd Management for Linux](https://www.pluralsight.com/cloud-guru/courses/systemd-management-for-linux) | **QUEUED** |
-| [Introduction to Linux Management Tools](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-management-tools) | **QUEUED** |
-| [Multi-Session with screen](https://www.pluralsight.com/cloud-guru/courses/multi-session-with-screen) | **QUEUED** |
-| [Advanced Vim Customization](https://www.pluralsight.com/cloud-guru/courses/advanced-vim-customization) | **QUEUED** |
-| [Text Editing with Vim](https://www.pluralsight.com/cloud-guru/courses/text-editing-with-vim) | **QUEUED** |
-| [Vim - The Improved Editor](https://www.pluralsight.com/cloud-guru/courses/vim-the-improved-editor) | **QUEUED** |
 | [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
 | [The System Administrator’s Guide to Bash Scripting](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/the-system-administrators-guide-to-bash-scripting.pdf) |
 | [Introduction to Linux Virtualization from the Command Line](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-virtualization-from-the-command-line) | [**LINK**](https://storage.googleapis.com/current-certs/04-01-a-cloud-guru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
