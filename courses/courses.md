@@ -60,3 +60,12 @@
 | [LFS101x: Introduction to Linux (2021)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/course-certificates/06-01-edx/lfs101x-introduction-to-linux.pdf) |
 
 </div>
+
+## The Linux Foundation
+
+<div align="justify">
+
+| [Linux Networking and Administration (LFS211)](https://training.linuxfoundation.org/training/linux-networking-and-administration/) | **QUEUED** |
+| [Linux System Administration Essentials (LFS207)](https://training.linuxfoundation.org/training/linux-system-administration-essentials-lfs207/) | **QUEUED** |
+
+</div>
