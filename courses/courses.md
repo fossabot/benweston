@@ -43,7 +43,43 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| []() | **QUEUED** |
+| [LPIC-2: Linux Engineer Exam 202-450 Preparation]() | **QUEUED** |
+| [LPIC-2: Linux Engineer Exam 201]() | **QUEUED** |
+| [LPIC-1: System Administrator – Exam 102 (v5 Objectives)]() | **QUEUED** |
+| [LPIC-1: System Administrator Exam 101 (v5 Objectives)]() | **QUEUED** |
+| [LPI Linux Essentials Certification]() | **QUEUED** |
+| [Linux System Security]() | **QUEUED** |
+| [Linux Email Services]() | **QUEUED** |
+| [Linux Network Client Management]() | **QUEUED** |
+| [Linux File Sharing]() | **QUEUED** |
+| [Linux Web Services]() | **QUEUED** |
+| [Linux Domain Name Server (DNS)]() | **QUEUED** |
+| [Linux System Maintenance]() | **QUEUED** |
+| [Linux Filesystems and Devices]() | **QUEUED** |
+| [Linux System Startup]() | **QUEUED** |
+| [The Linux Kernel]() | **QUEUED** |
+| [Linux Capacity Planning]() | **QUEUED** |
+| [Learn Linux by Doing]() | **QUEUED** |
+| [Concepts for Securing Your Servers]() | **QUEUED** |
+| [Linux Networking and Troubleshooting]() | **QUEUED** |
+| [Linux Network Configuration]() | **QUEUED** |
+| [Networking Foundations]() | **QUEUED** |
+| [Advanced Storage and Device Administration in Linux]() | **QUEUED** |
+| [Managing and Troubleshooting Encrypted Volumes in Linux]() | **QUEUED** |
+| [Managing and Troubleshooting File and Directory Permissions in Linux]() | **QUEUED** |
+| [Linux User Management Deep Dive]() | **QUEUED** |
+| [Introduction to LVM]() | **QUEUED** |
+| [Mastering Systemd]() | **QUEUED** |
+| [systemd Management for Linux]() | **QUEUED** |
+| [Introduction to Linux Management Tools]() | **QUEUED** |
+| [Multi-Session with screen]() | **QUEUED** |
+| [Advanced Vim Customization]() | **QUEUED** |
+| [Text Editing with Vim]() | **QUEUED** |
+| [Vim - The Improved Editor]() | **QUEUED** |
+| [The System Administrator’s Guide to Bash Scripting - NEW 2020]() | **QUEUED** |
+| [The System Administrator's Guide to Bash Scripting]() | **QUEUED** |
+| [Introduction to Linux Virtualization from the Command Line]() | **QUEUED** |
+| [Overview of Linux]() | **QUEUED** |
 
 </div>
 
@@ -56,6 +92,7 @@
 | [LPIC-2 Linux Engineer (202-450)](https://www.udemy.com/course/lpic-2-linux-engineer-202-450/) | **QUEUED** |
 | [LPIC-2 Linux Engineer (201-450)](https://www.udemy.com/course/lpic-2-linux-engineer-201-450/) | **QUEUED** |
 | [LPIC-1 - Linux System Administrator Masterclass](https://www.udemy.com/course/lpic-1-linux-system-administrator-masterclass/) | **QUEUED** |
+| [Prep for the LPIC-1 Exam 102-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-102-500-linux-system-administrator/) | **QUEUED** |
 | [Prep for the LPIC-1 Exam 101-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-101-500-linux-system-administrator/) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-udemy/prep-for-the-lpic1-exam-101-500.pdf) |
 | [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
 | [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
