@@ -79,7 +79,7 @@
 | [The System Administrator’s Guide to Bash Scripting - NEW 2020]() | **QUEUED** |
 | [The System Administrator's Guide to Bash Scripting]() | **QUEUED** |
 | [Introduction to Linux Virtualization from the Command Line]() | **QUEUED** |
-| [Overview of Linux]() | **QUEUED** |
+| [Overview of Linux]() | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/overview-of-linux.pdf) |
 
 </div>
 
