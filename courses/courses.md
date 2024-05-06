@@ -43,9 +43,9 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [LPIC-2: Linux Engineer Exam 202-450 Preparation]() | **QUEUED** |
-| [LPIC-2: Linux Engineer Exam 201]() | **QUEUED** |
-| [LPIC-1: System Administrator – Exam 102 (v5 Objectives)]() | **QUEUED** |
+| [LPIC-2: Linux Engineer Exam 202-450 Preparation](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-202-450-preparation) | **QUEUED** |
+| [LPIC-2: Linux Engineer Exam 201](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-201) | **QUEUED** |
+| [LPIC-1: System Administrator – Exam 102 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-102-v5-objectives) | **QUEUED** |
 | [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-102-v5-objectives) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
 | [Linux System Security](https://www.pluralsight.com/cloud-guru/courses/linux-system-security) | **QUEUED** |
