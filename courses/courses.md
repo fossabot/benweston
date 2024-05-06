@@ -78,7 +78,7 @@
 | [Vim - The Improved Editor]() | **QUEUED** |
 | [The System Administrator’s Guide to Bash Scripting - NEW 2020]() | **QUEUED** |
 | [The System Administrator's Guide to Bash Scripting]() | **QUEUED** |
-| [Introduction to Linux Virtualization from the Command Line]() | **QUEUED** |
+| [Introduction to Linux Virtualization from the Command Line](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-virtualization-from-the-command-line) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
 | [Overview of Linux](https://www.pluralsight.com/cloud-guru/courses/overview-of-linux) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/overview-of-linux.pdf) |
 
 </div>
