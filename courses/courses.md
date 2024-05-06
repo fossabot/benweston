@@ -76,8 +76,8 @@
 | [Advanced Vim Customization]() | **QUEUED** |
 | [Text Editing with Vim]() | **QUEUED** |
 | [Vim - The Improved Editor]() | **QUEUED** |
-| [The System Administrator’s Guide to Bash Scripting - NEW 2020]() | **QUEUED** |
-| [The System Administrator's Guide to Bash Scripting]() | **QUEUED** |
+| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
+| [The System Administrator's Guide to Bash Scripting](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/the-system-administrators-guide-to-bash-scripting.pdf) |
 | [Introduction to Linux Virtualization from the Command Line](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-virtualization-from-the-command-line) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
 | [Overview of Linux](https://www.pluralsight.com/cloud-guru/courses/overview-of-linux) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/overview-of-linux.pdf) |
 
