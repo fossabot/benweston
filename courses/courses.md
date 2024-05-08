@@ -102,9 +102,8 @@
 
 <div align="justify">
 
-| Course | Certificate |
-| :----- | :----- |
 | [**Cloud Engineer Learning Path**](https://www.cloudskillsboost.google/paths/11) |  |
+| :----- | :----- |
 | [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **QUEUED** |
 | [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | **QUEUED** |
 | [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/637) | **QUEUED** |
@@ -123,9 +122,8 @@
 
 <div align="justify">
 
-| Course | Certificate |
-| :----- | :----- |
 | [**Cloud Digital Leader Learning Path**](https://www.cloudskillsboost.google/paths/9) |  |
+| :----- | :----- |
 | [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/paths/9/course_templates/271) | **QUEUED** |
 | [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945) | **QUEUED** |
 | [Modernize Infrastructure and Applications with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/265) | **QUEUED** |
