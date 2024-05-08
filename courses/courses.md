@@ -4,11 +4,13 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [**Unix and Bash for Beginners Specialization**](https://www.coursera.org/specializations/unix-and-bash-for-beginners/) | **QUEUED** |
-| [Container Creation and Orchestration Basics](https://www.coursera.org/learn/codio-container-creation-and-orchestration-basics?specialization=unix-and-bash-for-beginners) | **QUEUED** |
-| [Connecting to Devices and Networks](https://www.coursera.org/learn/codio-connecting-to-devices-and-networks?specialization=unix-and-bash-for-beginners) | **QUEUED** |
-| [Bash Scripting and System Configuration](https://www.coursera.org/learn/codio-bash-scripting-and-system-configuration?specialization=unix-and-bash-for-beginners) | **QUEUED** |
-| [Unix System Basics](https://www.coursera.org/learn/codio-unix-system-basics?specialization=unix-and-bash-for-beginners) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/unix-and-bash-for-beginners-specialization/unix-system-basics.pdf) |
+| [**Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate**]() | [**QUEUED**] |
+| [Preparing for Your Associate Cloud Engineer Journey]() | [**QUEUED**] |
+| [Architecting with Google Kubernetes Engine: Foundations]() | [**QUEUED**] |
+| [Elastic Google Cloud Infrastructure: Scaling and Automation]() | [**QUEUED**] |
+| [Essential Google Cloud Infrastructure: Core Services]() | [**QUEUED**] |
+| [Essential Google Cloud Infrastructure: Foundation]() | [**QUEUED**] |
+| [Google Cloud Fundamentals: Core Infrastructure]() | [**QUEUED**] |
 
 </div>
 
@@ -16,12 +18,61 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Securing Linux Systems](https://www.coursera.org/learn/securing-linux-systems) | **QUEUED** |
-| [Linux Server Management and Security](https://www.coursera.org/learn/linux-server-management-security) | **QUEUED** |
-| [Managing Linux Systems](https://www.coursera.org/learn/managing-linux-systems) | **QUEUED** |
-| [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) | **QUEUED** |
-| [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals) | **QUEUED** |
-| [Linux OS](https://www.coursera.org/learn/illinois-tech-linux-os) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/linux-os.pdf) |
+| [**Google Cloud Digital Leader Training Professional Certificate**]() | [**QUEUED**] |
+| [Scaling with Google Cloud Operations]() | [**QUEUED**] |
+| [Trust and Security with Google Cloud]() | [**QUEUED**] |
+| [Modernize Infrastructure and Applications with Google Cloud]() | [**QUEUED**] |
+| [Innovating with Google Cloud Artificial Intelligence]() | [**QUEUED**] |
+| [Exploring Data Transformation with Google Cloud]() | [**QUEUED**] |
+| [Digital Transformation with Google Cloud]() | [**QUEUED**] |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Architecting with Google Compute Engine**]() | [**QUEUED**] |
+| [Reliable Google Cloud Infrastructure: Design and Process]() | [**QUEUED**] |
+| [Elastic Google Cloud Infrastructure: Scaling and Automation]() | [**QUEUED**] |
+| [Essential Google Cloud Infrastructure: Core Services]() | [**QUEUED**] |
+| [Essential Google Cloud Infrastructure: Foundation]() | [**QUEUED**] |
+| [Google Cloud Fundamentals: Core Infrastructure]() | [**QUEUED**] |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Architecting with Google Kubernetes Engine**]() | [**QUEUED**] |
+| [Architecting with Google Kubernetes Engine: Production]() | [**QUEUED**] |
+| [Architecting with Google Kubernetes Engine: Workloads]() | [**QUEUED**] |
+| [Architecting with Google Kubernetes Engine: Foundations]() | [**QUEUED**] |
+| [Google Cloud Fundamentals: Core Infrastructure]() | [**QUEUED**] |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Security in Google Cloud**]() | [**QUEUED**] |
+| [Mitigating Security Vulnerabilities on Google Cloud]() | [**QUEUED**] |
+| [Security Best Practices in Google Cloud]() | [**QUEUED**] |
+| [Managing Security in Google Cloud]() | [**QUEUED**] |
+| [Google Cloud Fundamentals: Core Infrastructure]() | [**QUEUED**] |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Networking in Google Cloud**]() | [**QUEUED**] |
+| [Networking in Google Cloud: Hybrid Connectivity and Network Management]() | [**QUEUED**] |
+| [Networking in Google Cloud: Defining and Implementing Networks]() | [**QUEUED**] |
+| [Google Cloud Fundamentals: Core Infrastructure]() | [**QUEUED**] |
 
 </div>
 
@@ -31,14 +82,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Linux Security and Hardening](https://cloudacademy.com/learning-paths/linux-security-and-hardening-3023/) | **QUEUED** |
-| [Linux Administration Bootcamp](https://cloudacademy.com/learning-paths/linux-administration-bootcamp-3015/) | **QUEUED** |
-| [Vim Masterclass](https://cloudacademy.com/learning-paths/vim-masterclass-3024/) | **QUEUED** |
-| [Bash Challenge Gauntlet](https://cloudacademy.com/learning-paths/bash-challenge-gauntlet-7280/) | **QUEUED** |
-| [Bash Scripting and Shell Programming](https://cloudacademy.com/learning-paths/bash-scripting-and-shell-programming-3021/) | **QUEUED** |
-| [Linux Shell Scripting: A Project-Based Approach to Learning](https://cloudacademy.com/learning-paths/linux-shell-scripting-3094/) | **QUEUED** |
-| [Linux Command Line Byte Session](https://cloudacademy.com/learning-paths/linux-command-line-byte-session-273/) | **QUEUED** |
-| [Learn Linux in 5 Days and Level Up Your Career](https://cloudacademy.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloud-academy/learn-linux-in-5-days-and-level-up-your-career.pdf) |
+| [Google Associate Cloud Engineer Exam Preparation]() | [**QUEUED**] |
+| [Google Cloud Digital Leader Exam Preparation]() | [**QUEUED**] |
 
 </div>
 
@@ -48,61 +93,44 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
-| [Learn Linux by Doing](https://www.pluralsight.com/cloud-guru/courses/learn-linux-by-doing) | **QUEUED** |
-| [Concepts for Securing Your Servers](https://www.pluralsight.com/cloud-guru/courses/concepts-for-securing-your-servers) | **QUEUED** |
-| [Linux Networking and Troubleshooting](https://www.pluralsight.com/cloud-guru/courses/linux-networking-and-troubleshooting) | **QUEUED** |
-| [Linux Network Configuration](https://www.pluralsight.com/cloud-guru/courses/linux-network-configuration) | **QUEUED** |
-| [Networking Foundations](https://www.pluralsight.com/cloud-guru/courses/networking-foundations) | **QUEUED** |
-| [Advanced Storage and Device Administration in Linux](https://www.pluralsight.com/cloud-guru/courses/advanced-storage-and-device-administration-in-linux) | **QUEUED** |
-| [Managing and Troubleshooting Encrypted Volumes in Linux](https://www.pluralsight.com/cloud-guru/courses/managing-and-troubleshooting-encrypted-volumes-in-linux) | **QUEUED** |
-| [Managing and Troubleshooting File and Directory Permissions in Linux](https://www.pluralsight.com/cloud-guru/courses/managing-and-troubleshooting-file-and-directory-permissions-in-linux) | **QUEUED** |
-| [Linux User Management Deep Dive](https://www.pluralsight.com/cloud-guru/courses/linux-user-management-deep-dive) | **QUEUED** |
-| [Introduction to LVM](https://www.pluralsight.com/cloud-guru/courses/introduction-to-lvm) | **QUEUED** |
-| [Mastering Systemd](https://www.pluralsight.com/cloud-guru/courses/mastering-systemd) | **QUEUED** |
-| [systemd Management for Linux](https://www.pluralsight.com/cloud-guru/courses/systemd-management-for-linux) | **QUEUED** |
-| [Introduction to Linux Management Tools](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-management-tools) | **QUEUED** |
-| [Multi-Session with screen](https://www.pluralsight.com/cloud-guru/courses/multi-session-with-screen) | **QUEUED** |
-| [Advanced Vim Customization](https://www.pluralsight.com/cloud-guru/courses/advanced-vim-customization) | **QUEUED** |
-| [Text Editing with Vim](https://www.pluralsight.com/cloud-guru/courses/text-editing-with-vim) | **QUEUED** |
-| [Vim - The Improved Editor](https://www.pluralsight.com/cloud-guru/courses/vim-the-improved-editor) | **QUEUED** |
-| [The System Administrator’s Guide to Bash Scripting - NEW 2020](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/the-system-administrators-guide-to-bash-scripting-new-2020.pdf) |
-| [The System Administrator's Guide to Bash Scripting](https://www.pluralsight.com/cloud-guru/courses/the-system-administrators-guide-to-bash-scripting-new-2020) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/the-system-administrators-guide-to-bash-scripting.pdf) |
-| [Introduction to Linux Virtualization from the Command Line](https://www.pluralsight.com/cloud-guru/courses/introduction-to-linux-virtualization-from-the-command-line) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/introduction-to-linux-virtualization-from-the-command-line.pdf) |
-| [Overview of Linux](https://www.pluralsight.com/cloud-guru/courses/overview-of-linux) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/overview-of-linux.pdf) |
+| [Google Certified Associate Cloud Engineer]() | [**QUEUED**] |
+| [Google Cloud Certified Cloud Digital Leader]() | [**QUEUED**] |
 
 </div>
 
-## Udemy
+## Google Cloud Skills Boost
 
 <div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
-| [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
-| [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
-| [Mastering Linux: The Comprehensive Guide](https://www.udemy.com/course/mastering-linux/) | **QUEUED** |
-| [Complete Linux Training with Troubleshooting Skills](https://www.udemy.com/course/red-hat-linux-administration-advance-level-troubleshooting/) | **QUEUED** |
-| [Linux Administration: Build 5 Hands-On Linux Projects](https://www.udemy.com/course/linux-administration-build-hands-on-linux-projects/) | **QUEUED** |
-| [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/) | **QUEUED** |
-| [Linux Administration: The Complete Linux Bootcamp for 2024](https://www.udemy.com/course/master-linux-administration/) | **QUEUED** |
-| [Linux Mastery: Master the Linux Command Line in 11.5 Hours](https://www.udemy.com/course/linux-mastery/) | **QUEUED** |
-| [Bash Mastery: The Complete Guide to Bash Shell Scripting](https://www.udemy.com/course/bash-mastery/) | **QUEUED** |
-| [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/) | **QUEUED** |
-| [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | **QUEUED** |
-| [Complete Linux Bash Shell Scripting with Real Life Examples](https://www.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples/) | **QUEUED** |
-| [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/) | **QUEUED** |
-| [Bash Shell Scripting: Crash Course For Beginners](https://www.udemy.com/course/bash-shell-scripting-crash-course-for-beginners/) | **QUEUED** |
+| [**Cloud Engineer Learning Path**](https://www.cloudskillsboost.google/paths/11) |  |
+| [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | [**QUEUED**] |
+| [Develop your Google Cloud Network](https://www.cloudskillsboost.google/paths/11/course_templates/625) | [**QUEUED**] |
+| [Set Up an App Dev Environment on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/637) | [**QUEUED**] |
+| [Implement Load Balancing on Compute Engine](https://www.cloudskillsboost.google/paths/11/course_templates/648) | [**QUEUED**] |
+| [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/443) | [**QUEUED**] |
+| [Observability in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/864) | [**QUEUED**] |
+| [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/99) | [**QUEUED**] |
+| [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/paths/11/course_templates/2) | [**QUEUED**] |
+| [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.cloudskillsboost.google/paths/11/course_templates/178) | [**QUEUED**] |
+| [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/paths/11/course_templates/49) | [**QUEUED**] |
+| [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/paths/11/course_templates/50) | [**QUEUED**] |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/paths/11/course_templates/60) | [**QUEUED**] |
+| [Preparing for Your Associate Cloud Engineer Journey](https://www.cloudskillsboost.google/paths/11/course_templates/77) | [**QUEUED**] |
 
 </div>
-
-## edX
 
 <div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
-| [Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | [**LINK**](https://storage.googleapis.com/course-certificates/06-01-edx/lx0117en-linux-commands-and-shell-scripting.pdf) |
-| [LFS101x: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/course-certificates/06-01-edx/lfs101x-introduction-to-linux.pdf) |
+| [**Cloud Digital Leader Learning Path**](https://www.cloudskillsboost.google/paths/9) |  |
+| [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/paths/9/course_templates/271) | [**QUEUED**] |
+| [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945) | [**QUEUED**] |
+| [Modernize Infrastructure and Applications with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/265) | [**QUEUED**] |
+| [Innovating with Google Cloud Artificial Intelligence](https://www.cloudskillsboost.google/paths/9/course_templates/946) | [**QUEUED**] |
+| [Exploring Data Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/267) | [**QUEUED**] |
+| [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266) | [**QUEUED**] |
 
 </div>
