@@ -98,8 +98,6 @@
 
 </div>
 
----
-
 ### Google Cloud Skills Boost
 
 <div align="justify">
