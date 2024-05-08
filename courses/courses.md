@@ -31,8 +31,6 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Linux Server Professional - LPIC-102](https://cloudacademy.com/learning-paths/linux-server-professional-lpic-2-2586/) | **QUEUED** |
-| [Linux Server Professional - LPIC-101](https://cloudacademy.com/learning-paths/linux-certification-lpic-1-8/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloud-academy/linux-server-professional-lpic-101.pdf) |
 | [Linux Security and Hardening](https://cloudacademy.com/learning-paths/linux-security-and-hardening-3023/) | **QUEUED** |
 | [Linux Administration Bootcamp](https://cloudacademy.com/learning-paths/linux-administration-bootcamp-3015/) | **QUEUED** |
 | [Vim Masterclass](https://cloudacademy.com/learning-paths/vim-masterclass-3024/) | **QUEUED** |
@@ -44,47 +42,13 @@
 
 </div>
 
-## Pluralsight
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
-| [**LPIC-2: Linux Engineer (201-450 and 202-450)**](https://www.pluralsight.com/paths/lpic-2) | **QUEUED** |
-| [Linux: System Security (LPIC-2)](https://www.pluralsight.com/courses/linux-system-security-lpic-2) | **QUEUED** |
-| [Linux: Email Services (LPIC-2)](https://www.pluralsight.com/courses/linux-email-servers-lpic-2) | **QUEUED** |
-| [Linux: Network Client Management (LPIC-2)](https://www.pluralsight.com/courses/linux-network-client-management-lpic-2) | **QUEUED** |
-| [Linux: Managing File Services (LPIC-2)](https://www.pluralsight.com/courses/linux-managing-file-services-lpic-2) | **QUEUED** |
-| [Linux: Managing Web Services (LPIC-2)](https://www.pluralsight.com/courses/linux-managing-web-services-lpic-2) | **QUEUED** |
-| [Linux Managing DNS Servers (LPIC-2)](https://www.pluralsight.com/courses/linux-managing-dns-servers-lpic-2) | **QUEUED** |
-| [Linux Advanced File System Management (LPIC-2)](https://www.pluralsight.com/courses/linux-advanced-file-system-management) | **QUEUED** |
-| [Linux Kernel and System Startup (LPIC-2)](https://www.pluralsight.com/courses/linux-kernel-system-startup) | **QUEUED** |
-| [Linux Monitoring and Maintenance (LPIC-2)](https://www.pluralsight.com/courses/linux-monitoring-maintenance) | **QUEUED** |
-
-</div>
-
 ## A Cloud Guru
 
 <div align="justify">
 
 | Course | Certificate |
 | :----- | :----- |
-| [LPIC-2: Linux Engineer Exam 202-450 Preparation](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-202-450-preparation) | **QUEUED** |
-| [LPIC-2: Linux Engineer Exam 201](https://www.pluralsight.com/cloud-guru/courses/lpic-2-linux-engineer-exam-201) | **QUEUED** |
-| [LPIC-1: System Administrator – Exam 102 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-102-v5-objectives) | **QUEUED** |
-| [LPIC-1: System Administrator Exam 101 (v5 Objectives)](https://www.pluralsight.com/cloud-guru/courses/lpic-1-system-administrator-exam-101-v5-objectives) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/lpic1-system-administrator-exam-101.pdf) |
 | [LPI Linux Essentials Certification](https://www.pluralsight.com/cloud-guru/courses/lpi-linux-essentials-certification) | [**LINK**](https://storage.googleapis.com/course-certificates/04-01-a-cloud-guru/lpi-linux-essentials-certification.pdf) |
-| [Linux System Security](https://www.pluralsight.com/cloud-guru/courses/linux-system-security) | **QUEUED** |
-| [Linux Email Services](https://www.pluralsight.com/cloud-guru/courses/linux-email-services) | **QUEUED** |
-| [Linux Network Client Management](https://www.pluralsight.com/cloud-guru/courses/linux-network-client-management) | **QUEUED** |
-| [Linux File Sharing](https://www.pluralsight.com/cloud-guru/courses/linux-file-sharing) | **QUEUED** |
-| [Linux Web Services](https://www.pluralsight.com/cloud-guru/courses/linux-web-services) | **QUEUED** |
-| [Linux Domain Name Server (DNS)](https://www.pluralsight.com/cloud-guru/courses/linux-domain-name-server-dns) | **QUEUED** |
-| [Linux System Maintenance](https://www.pluralsight.com/cloud-guru/courses/linux-system-maintenance) | **QUEUED** |
-| [Linux Filesystems and Devices](https://www.pluralsight.com/cloud-guru/courses/linux-filesystems-and-devices) | **QUEUED** |
-| [Linux System Startup](https://www.pluralsight.com/cloud-guru/courses/linux-system-startup) | **QUEUED** |
-| [The Linux Kernel](https://www.pluralsight.com/cloud-guru/courses/the-linux-kernel) | **QUEUED** |
-| [Linux Capacity Planning](https://www.pluralsight.com/cloud-guru/courses/linux-capacity-planning) | **QUEUED** |
 | [Learn Linux by Doing](https://www.pluralsight.com/cloud-guru/courses/learn-linux-by-doing) | **QUEUED** |
 | [Concepts for Securing Your Servers](https://www.pluralsight.com/cloud-guru/courses/concepts-for-securing-your-servers) | **QUEUED** |
 | [Linux Networking and Troubleshooting](https://www.pluralsight.com/cloud-guru/courses/linux-networking-and-troubleshooting) | **QUEUED** |
@@ -115,11 +79,6 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [LPIC-2 Linux Engineer (202-450)](https://www.udemy.com/course/lpic-2-linux-engineer-202-450/) | **QUEUED** |
-| [LPIC-2 Linux Engineer (201-450)](https://www.udemy.com/course/lpic-2-linux-engineer-201-450/) | **QUEUED** |
-| [LPIC-1 - Linux System Administrator Masterclass](https://www.udemy.com/course/lpic-1-linux-system-administrator-masterclass/) | **QUEUED** |
-| [Prep for the LPIC-1 Exam 102-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-102-500-linux-system-administrator/) | **QUEUED** |
-| [Prep for the LPIC-1 Exam 101-500: Linux System Administrator](https://www.udemy.com/course/prep-for-the-lpic-1-exam-101-500-linux-system-administrator/) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-udemy/prep-for-the-lpic1-exam-101-500.pdf) |
 | [LPI Linux Essentials (010-160) Complete Course and Exams](https://www.udemy.com/course/linux-essentials-010/) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-udemy/lpi-linux-essentials-010-160-complete-course-and-exams.pdf) |
 | [Learning Linux Essentials: Taking your first steps in Linux](https://www.udemy.com/course/learning-linux-essentials-taking-your-first-steps-in-linux/) | [**LINK**](https://storage.googleapis.com/course-certificates/05-01-udemy/learning-linux-essentials-taking-your-first-steps-in-linux.pdf) |
 | [Mastering Linux: The Comprehensive Guide](https://www.udemy.com/course/mastering-linux/) | **QUEUED** |
@@ -144,19 +103,6 @@
 | Course | Certificate |
 | :----- | :----- |
 | [Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting) | [**LINK**](https://storage.googleapis.com/course-certificates/06-01-edx/lx0117en-linux-commands-and-shell-scripting.pdf) |
-| [Linux Basics: The Command Line Interface](https://www.edx.org/learn/linux/dartmouth-college-linux-basics-the-command-line-interface) | **_IN PROGRESS_** |
-| [LFS101x: Introduction to Linux (2024)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | **_IN PROGRESS_** |
-| [LFS101x: Introduction to Linux (2021)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/course-certificates/06-01-edx/lfs101x-introduction-to-linux.pdf) |
-
-</div>
-
-## The Linux Foundation
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
-| [Linux Networking and Administration (LFS211)](https://training.linuxfoundation.org/training/linux-networking-and-administration/) | **QUEUED** |
-| [Linux System Administration Essentials (LFS207)](https://training.linuxfoundation.org/training/linux-system-administration-essentials-lfs207/) | **QUEUED** |
+| [LFS101x: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [**LINK**](https://storage.googleapis.com/course-certificates/06-01-edx/lfs101x-introduction-to-linux.pdf) |
 
 </div>
