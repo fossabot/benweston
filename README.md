@@ -6,7 +6,7 @@
 
 <div align="left">
 
-> Currently studying to achieve Linux Professional Institute [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview/) and documenting my journey here.   
+> Cloud Engineer for [Springer Nature Group](https://www.linkedin.com/company/springernaturegroup/).    
 
 </div>
 
