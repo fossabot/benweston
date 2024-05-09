@@ -32,7 +32,7 @@
 | Course | Certificate |
 | :----- | :----- |
 | [Linux Server Professional - LPIC-102](https://cloudacademy.com/learning-paths/linux-server-professional-lpic-2-2586/) | **QUEUED** |
-| [Linux Server Professional - LPIC-101](https://cloudacademy.com/learning-paths/linux-certification-lpic-1-8/) | **QUEUED** |
+| [Linux Server Professional - LPIC-101](https://cloudacademy.com/learning-paths/linux-certification-lpic-1-8/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloud-academy/linux-server-professional-lpic-101.pdf) |
 | [Linux Security and Hardening](https://cloudacademy.com/learning-paths/linux-security-and-hardening-3023/) | **QUEUED** |
 | [Linux Administration Bootcamp](https://cloudacademy.com/learning-paths/linux-administration-bootcamp-3015/) | **QUEUED** |
 | [Vim Masterclass](https://cloudacademy.com/learning-paths/vim-masterclass-3024/) | **QUEUED** |
@@ -40,7 +40,7 @@
 | [Bash Scripting and Shell Programming](https://cloudacademy.com/learning-paths/bash-scripting-and-shell-programming-3021/) | **QUEUED** |
 | [Linux Shell Scripting: A Project-Based Approach to Learning](https://cloudacademy.com/learning-paths/linux-shell-scripting-3094/) | **QUEUED** |
 | [Linux Command Line Byte Session](https://cloudacademy.com/learning-paths/linux-command-line-byte-session-273/) | **QUEUED** |
-| [Learn Linux in 5 Days and Level Up Your Career](https://cloudacademy.com/learning-paths/learn-linux-in-5-days-3022/) | **QUEUED** |
+| [Learn Linux in 5 Days and Level Up Your Career](https://cloudacademy.com/learning-paths/learn-linux-in-5-days-3022/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloud-academy/learn-linux-in-5-days-and-level-up-your-career.pdf) |
 
 </div>
 
