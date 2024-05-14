@@ -4,36 +4,6 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [**Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/gcp-data-engineering) | **QUEUED** |
-| [Preparing for your Professional Data Engineer Journey](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam?specialization=gcp-data-engineering) | **QUEUED** |
-| [Smart Analytics, Machine Learning, and AI on Google Cloud](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp?specialization=gcp-data-engineering) | **QUEUED** |
-| [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-engineering) | **QUEUED** |
-| [Building Batch Data Pipelines on Google Cloud](https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-engineering) | **QUEUED** |
-| [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-engineering) | **QUEUED** |
-| [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-engineering) | **QUEUED** |
-
-</div>
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
-| [**Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/google-cloud-security) | **QUEUED** |
-| [Hands-On Labs in Google Cloud for Security Engineers](https://www.coursera.org/learn/hands-on-labs-google-cloud-security-engineer?specialization=google-cloud-security) | **QUEUED** |
-| [Mitigating Security Vulnerabilities on Google Cloud](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp?specialization=google-cloud-security) | **QUEUED** |
-| [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud?specialization=google-cloud-security) | **QUEUED** |
-| [Managing Security in Google Cloud](https://www.coursera.org/learn/managing-security-in-google-cloud-platform?specialization=google-cloud-security) | **QUEUED** |
-| [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management?specialization=google-cloud-security) | **QUEUED** |
-| [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks?specialization=google-cloud-security) | **QUEUED** |
-| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=google-cloud-security) | **QUEUED** |
-| [Preparing for Your Professional Cloud Security Engineer Journey](https://www.coursera.org/learn/preparing-for-your-professional-cloud-security-engineer-journey?specialization=google-cloud-security) | **QUEUED** |
-
-</div>
-
-<div align="justify">
-
-| Course | Certificate |
-| :----- | :----- |
 | [**Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/cloud-engineering-gcp) | **QUEUED** |
 | [Preparing for Your Associate Cloud Engineer Journey](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam?specialization=cloud-engineering-gcp) | **QUEUED** |
 | [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke?specialization=cloud-engineering-gcp) | **QUEUED** |
@@ -112,8 +82,6 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Google Professional Data Engineer Exam Preparation](https://cloudacademy.com/learning-paths/data-engineer-professional-certification-preparation-for-google-83/) | **QUEUED** |
-| [Google Professional Cloud Security Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-professional-cloud-security-engineer-exam-preparation-1412/) | **QUEUED** |
 | [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | **QUEUED** |
 | [Google Cloud Digital Leader Exam Preparation](https://cloudacademy.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloud-academy/google-cloud-digital-leader-exam-preparation.pdf) |
 
@@ -125,55 +93,12 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Google Certified Professional Data Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-professional-data-engineer) | **QUEUED** |
-| [Google Cloud Certified Professional Cloud Security Engineer](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-professional-cloud-security-engineer) | **QUEUED** |
 | [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | **QUEUED** |
 | [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-a-cloud-guru/google-cloud-certified-cloud-digital-leader.pdf) |
 
 </div>
 
 ### Google Cloud Skills Boost
-
-<div align="justify">
-
-| [**Data Engineer Learning Path**](https://www.cloudskillsboost.google/paths/16) |  |
-| :----- | :----- |
-| [Build a Data Mesh with Dataplex](https://www.cloudskillsboost.google/paths/16/course_templates/681) | **QUEUED** |
-| [Engineer Data for Predictive Modeling with BigQuery ML](https://www.cloudskillsboost.google/paths/16/course_templates/627) | **QUEUED** |
-| [Build a Data Warehouse with BigQuery](https://www.cloudskillsboost.google/paths/16/course_templates/624) | **QUEUED** |
-| [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/631) | **QUEUED** |
-| [Serverless Data Processing with Dataflow: Operations](https://www.cloudskillsboost.google/paths/16/course_templates/264) | **QUEUED** |
-| [Serverless Data Processing with Dataflow: Develop Pipelines](https://www.cloudskillsboost.google/paths/16/course_templates/229) | **QUEUED** |
-| [Serverless Data Processing with Dataflow: Foundations](https://www.cloudskillsboost.google/paths/16/course_templates/218) | **QUEUED** |
-| [Smart Analytics, Machine Learning, and AI on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/55) | **QUEUED** |
-| [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/52) | **QUEUED** |
-| [Building Batch Data Pipelines on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/53) | **QUEUED** |
-| [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/54) | **QUEUED** |
-| [Preparing for your Professional Data Engineer Journey](https://www.cloudskillsboost.google/paths/16/course_templates/72) | **QUEUED** |
-
-</div>
-
-<div align="justify">
-
-| [**Security Engineer Learning Path**](https://www.cloudskillsboost.google/paths/15) |  |
-| :----- | :----- |
-| [Mitigate Threats and Vulnerabilities with Security Command Center](https://www.cloudskillsboost.google/paths/15/course_templates/759) | **QUEUED** |
-| [Securing your Network with Cloud Armor](https://www.cloudskillsboost.google/paths/15/course_templates/785) | **QUEUED** |
-| [Using DevSecOps in your Google Cloud Environment](https://www.cloudskillsboost.google/paths/15/course_templates/940) | **QUEUED** |
-| [Google Kubernetes Engine Best Practices: Security](https://www.cloudskillsboost.google/paths/15/course_templates/732) | **QUEUED** |
-| [Implement Cloud Security Fundamentals on Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/645) | **QUEUED** |
-| [Build a Secure Google Cloud Network](https://www.cloudskillsboost.google/paths/15/course_templates/654) | **QUEUED** |
-| [Observability in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/864) | **QUEUED** |
-| [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/99) | **QUEUED** |
-| [Mitigating Security Vulnerabilities on Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/88) | **QUEUED** |
-| [Security Best Practices in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/87) | **QUEUED** |
-| [Managing Security in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/21) | **QUEUED** |
-| [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.cloudskillsboost.google/paths/15/course_templates/36) | **QUEUED** |
-| [Networking in Google Cloud: Defining and Implementing Networks](https://www.cloudskillsboost.google/paths/15/course_templates/35) | **QUEUED** |
-| [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/paths/15/course_templates/60) | **QUEUED** |
-| [Preparing for Your Professional Cloud Security Engineer Journey](https://www.cloudskillsboost.google/paths/15/course_templates/397) | **QUEUED** |
-
-</div>
 
 <div align="justify">
 
