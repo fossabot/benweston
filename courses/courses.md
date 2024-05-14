@@ -136,6 +136,47 @@
 
 <div align="justify">
 
+| [**Data Engineer Learning Path**](https://www.cloudskillsboost.google/paths/16) |  |
+| :----- | :----- |
+| [Build a Data Mesh with Dataplex](https://www.cloudskillsboost.google/paths/16/course_templates/681) | **QUEUED** |
+| [Engineer Data for Predictive Modeling with BigQuery ML](https://www.cloudskillsboost.google/paths/16/course_templates/627) | **QUEUED** |
+| [Build a Data Warehouse with BigQuery](https://www.cloudskillsboost.google/paths/16/course_templates/624) | **QUEUED** |
+| [Prepare Data for ML APIs on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/631) | **QUEUED** |
+| [Serverless Data Processing with Dataflow: Operations](https://www.cloudskillsboost.google/paths/16/course_templates/264) | **QUEUED** |
+| [Serverless Data Processing with Dataflow: Develop Pipelines](https://www.cloudskillsboost.google/paths/16/course_templates/229) | **QUEUED** |
+| [Serverless Data Processing with Dataflow: Foundations](https://www.cloudskillsboost.google/paths/16/course_templates/218) | **QUEUED** |
+| [Smart Analytics, Machine Learning, and AI on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/55) | **QUEUED** |
+| [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/52) | **QUEUED** |
+| [Building Batch Data Pipelines on Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/53) | **QUEUED** |
+| [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.cloudskillsboost.google/paths/16/course_templates/54) | **QUEUED** |
+| [Preparing for your Professional Data Engineer Journey](https://www.cloudskillsboost.google/paths/16/course_templates/72) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| [**Security Engineer Learning Path**](https://www.cloudskillsboost.google/paths/15) |  |
+| :----- | :----- |
+| [Mitigate Threats and Vulnerabilities with Security Command Center](https://www.cloudskillsboost.google/paths/15/course_templates/759) | **QUEUED** |
+| [Securing your Network with Cloud Armor](https://www.cloudskillsboost.google/paths/15/course_templates/785) | **QUEUED** |
+| [Using DevSecOps in your Google Cloud Environment](https://www.cloudskillsboost.google/paths/15/course_templates/940) | **QUEUED** |
+| [Google Kubernetes Engine Best Practices: Security](https://www.cloudskillsboost.google/paths/15/course_templates/732) | **QUEUED** |
+| [Implement Cloud Security Fundamentals on Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/645) | **QUEUED** |
+| [Build a Secure Google Cloud Network](https://www.cloudskillsboost.google/paths/15/course_templates/654) | **QUEUED** |
+| [Observability in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/864) | **QUEUED** |
+| [Logging and Monitoring in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/99) | **QUEUED** |
+| [Mitigating Security Vulnerabilities on Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/88) | **QUEUED** |
+| [Security Best Practices in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/87) | **QUEUED** |
+| [Managing Security in Google Cloud](https://www.cloudskillsboost.google/paths/15/course_templates/21) | **QUEUED** |
+| [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.cloudskillsboost.google/paths/15/course_templates/36) | **QUEUED** |
+| [Networking in Google Cloud: Defining and Implementing Networks](https://www.cloudskillsboost.google/paths/15/course_templates/35) | **QUEUED** |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/paths/15/course_templates/60) | **QUEUED** |
+| [Preparing for Your Professional Cloud Security Engineer Journey](https://www.cloudskillsboost.google/paths/15/course_templates/397) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
 | [**Cloud Engineer Learning Path**](https://www.cloudskillsboost.google/paths/11) |  |
 | :----- | :----- |
 | [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/paths/11/course_templates/636) | **QUEUED** |
