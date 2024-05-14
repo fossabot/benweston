@@ -82,6 +82,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Google Professional Data Engineer Exam Preparation](https://cloudacademy.com/learning-paths/data-engineer-professional-certification-preparation-for-google-83/) | **QUEUED** |
+| [Google Professional Cloud Security Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-professional-cloud-security-engineer-exam-preparation-1412/) | **QUEUED** |
 | [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | **QUEUED** |
 | [Google Cloud Digital Leader Exam Preparation](https://cloudacademy.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloud-academy/google-cloud-digital-leader-exam-preparation.pdf) |
 
@@ -93,6 +95,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [Google Certified Professional Data Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-professional-data-engineer) | **QUEUED** |
+| [Google Cloud Certified Professional Cloud Security Engineer](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-professional-cloud-security-engineer) | **QUEUED** |
 | [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | **QUEUED** |
 | [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-a-cloud-guru/google-cloud-certified-cloud-digital-leader.pdf) |
 
