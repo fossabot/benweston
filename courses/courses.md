@@ -82,8 +82,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Google Associate Cloud Engineer Exam Preparation]() | **QUEUED** |
-| [Google Cloud Digital Leader Exam Preparation]() | **QUEUED** |
+| [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | **QUEUED** |
+| [Google Cloud Digital Leader Exam Preparation](https://cloudacademy.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloud-academy/google-cloud-digital-leader-exam-preparation.pdf) |
 
 </div>
 
@@ -93,8 +93,8 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Google Certified Associate Cloud Engineer]() | **QUEUED** |
-| [Google Cloud Certified Cloud Digital Leader]() | **QUEUED** |
+| [Google Certified Associate Cloud Engineer](https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-engineer) | **QUEUED** |
+| [Google Cloud Certified Cloud Digital Leader](https://www.pluralsight.com/cloud-guru/courses/google-cloud-certified-cloud-digital-leader) | [**LINK**](https://storage.googleapis.com/course-certificates/03-01-a-cloud-guru/google-cloud-certified-cloud-digital-leader.pdf) |
 
 </div>
 
@@ -129,6 +129,6 @@
 | [Modernize Infrastructure and Applications with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/265) | **QUEUED** |
 | [Innovating with Google Cloud Artificial Intelligence](https://www.cloudskillsboost.google/paths/9/course_templates/946) | **QUEUED** |
 | [Exploring Data Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/267) | **QUEUED** |
-| [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266) | **QUEUED** |
+| [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5002699) |
 
 </div>
