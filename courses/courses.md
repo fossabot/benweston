@@ -4,6 +4,36 @@
 
 | Course | Certificate |
 | :----- | :----- |
+| [**Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/gcp-data-engineering) | **QUEUED** |
+| [Preparing for your Professional Data Engineer Journey](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam?specialization=gcp-data-engineering) | **QUEUED** |
+| [Smart Analytics, Machine Learning, and AI on Google Cloud](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp?specialization=gcp-data-engineering) | **QUEUED** |
+| [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-engineering) | **QUEUED** |
+| [Building Batch Data Pipelines on Google Cloud](https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-engineering) | **QUEUED** |
+| [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-engineering) | **QUEUED** |
+| [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-engineering) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
+| [**Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/google-cloud-security) | **QUEUED** |
+| [Hands-On Labs in Google Cloud for Security Engineers](https://www.coursera.org/learn/hands-on-labs-google-cloud-security-engineer?specialization=google-cloud-security) | **QUEUED** |
+| [Mitigating Security Vulnerabilities on Google Cloud](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp?specialization=google-cloud-security) | **QUEUED** |
+| [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud?specialization=google-cloud-security) | **QUEUED** |
+| [Managing Security in Google Cloud](https://www.coursera.org/learn/managing-security-in-google-cloud-platform?specialization=google-cloud-security) | **QUEUED** |
+| [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management?specialization=google-cloud-security) | **QUEUED** |
+| [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks?specialization=google-cloud-security) | **QUEUED** |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=google-cloud-security) | **QUEUED** |
+| [Preparing for Your Professional Cloud Security Engineer Journey](https://www.coursera.org/learn/preparing-for-your-professional-cloud-security-engineer-journey?specialization=google-cloud-security) | **QUEUED** |
+
+</div>
+
+<div align="justify">
+
+| Course | Certificate |
+| :----- | :----- |
 | [**Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/cloud-engineering-gcp) | **QUEUED** |
 | [Preparing for Your Associate Cloud Engineer Journey](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam?specialization=cloud-engineering-gcp) | **QUEUED** |
 | [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke?specialization=cloud-engineering-gcp) | **QUEUED** |
