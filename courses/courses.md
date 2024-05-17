@@ -19,7 +19,7 @@
 | Course | Certificate |
 | :----- | :----- |
 | [**Google Cloud Digital Leader Training Professional Certificate**](https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training) | **QUEUED** |
-| [Scaling with Google Cloud Operations](https://www.coursera.org/learn/understanding-google-cloud-security-and-operations?specialization=google-cloud-digital-leader-training) | **QUEUED** |
+| [Scaling with Google Cloud Operations](https://www.coursera.org/learn/understanding-google-cloud-security-and-operations?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/scaling-with-google-cloud-operations.pdf) |
 | [Trust and Security with Google Cloud](https://www.coursera.org/learn/trust-and-security-with-google-cloud?specialization=google-cloud-digital-leader-training) | **QUEUED** |
 | [Modernize Infrastructure and Applications with Google Cloud](https://www.coursera.org/learn/google-cloud-product-fundamentals?specialization=google-cloud-digital-leader-training) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/google-cloud-digital-leader-training/modernize-infrastructure-and-applications-with-google-cloud.pdf) |
 | [Innovating with Google Cloud Artificial Intelligence](https://www.coursera.org/learn/innovating-with-google-cloud-artificial-intelligence?specialization=google-cloud-digital-leader-training) | **QUEUED** |
