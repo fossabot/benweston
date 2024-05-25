@@ -48,9 +48,8 @@
 
 <div align="justify">
 
-| Course | Certificate |
+| [**LPIC-2: Linux Engineer (201-450 and 202-450)**](https://www.pluralsight.com/paths/lpic-2) |  |
 | :----- | :----- |
-| [**LPIC-2: Linux Engineer (201-450 and 202-450)**](https://www.pluralsight.com/paths/lpic-2) | **QUEUED** |
 | [Linux: System Security (LPIC-2)](https://www.pluralsight.com/courses/linux-system-security-lpic-2) | **QUEUED** |
 | [Linux: Email Services (LPIC-2)](https://www.pluralsight.com/courses/linux-email-servers-lpic-2) | **QUEUED** |
 | [Linux: Network Client Management (LPIC-2)](https://www.pluralsight.com/courses/linux-network-client-management-lpic-2) | **QUEUED** |
