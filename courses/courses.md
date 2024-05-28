@@ -33,11 +33,6 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Linux Server Professional - LPIC-102](https://cloudacademy.com/learning-paths/linux-server-professional-lpic-2-2586/) | **QUEUED** |
-| [Linux Server Professional - LPIC-101](https://cloudacademy.com/learning-paths/linux-certification-lpic-1-8/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/linux-server-professional-lpic-101.pdf) |
-| [Linux Security and Hardening](https://cloudacademy.com/learning-paths/linux-security-and-hardening-3023/) | **QUEUED** |
-| [Linux Administration Bootcamp](https://cloudacademy.com/learning-paths/linux-administration-bootcamp-3015/) | **QUEUED** |
-| [Vim Masterclass](https://cloudacademy.com/learning-paths/vim-masterclass-3024/) | **QUEUED** |
 | [Bash Challenge Gauntlet](https://cloudacademy.com/learning-paths/bash-challenge-gauntlet-7280/) | **QUEUED** |
 | [Bash Scripting and Shell Programming](https://cloudacademy.com/learning-paths/bash-scripting-and-shell-programming-3021/) | **QUEUED** |
 | [Linux Shell Scripting: A Project-Based Approach to Learning](https://cloudacademy.com/learning-paths/linux-shell-scripting-3094/) | **QUEUED** |
