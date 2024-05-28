@@ -8,9 +8,9 @@
 | [Preparing for Your Associate Cloud Engineer Journey](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam?specialization=cloud-engineering-gcp) | **QUEUED** |
 | [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke?specialization=cloud-engineering-gcp) | **QUEUED** |
 | [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation?specialization=cloud-engineering-gcp) | **QUEUED** |
-| [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=cloud-engineering-gcp) | **QUEUED** |
-| [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=cloud-engineering-gcp) | **QUEUED** |
-| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=cloud-engineering-gcp) | **QUEUED** |
+| [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=cloud-engineering-gcp) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/preparing-for-google-cloud-certification-cloud-engineer-professional-certificate/essential-google-cloud-infrastructure-core-services.pdf) |
+| [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=cloud-engineering-gcp) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/preparing-for-google-cloud-certification-cloud-engineer-professional-certificate/essential-google-cloud-infrastructure-foundation.pdf) |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=cloud-engineering-gcp) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/preparing-for-google-cloud-certification-cloud-engineer-professional-certificate/google-cloud-fundamentals-core-infrastructure.pdf) |
 
 </div>
 
