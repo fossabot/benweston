@@ -46,24 +46,6 @@
 
 </div>
 
-### Pluralsight
-
-<div align="justify">
-
-| [**LPIC-2: Linux Engineer (201-450 and 202-450)**](https://www.pluralsight.com/paths/lpic-2) |  |
-| :----- | :----- |
-| [Linux: System Security (LPIC-2)](https://www.pluralsight.com/courses/linux-system-security-lpic-2) | **QUEUED** |
-| [Linux: Email Services (LPIC-2)](https://www.pluralsight.com/courses/linux-email-servers-lpic-2) | **QUEUED** |
-| [Linux: Network Client Management (LPIC-2)](https://www.pluralsight.com/courses/linux-network-client-management-lpic-2) | **QUEUED** |
-| [Linux: Managing File Services (LPIC-2)](https://www.pluralsight.com/courses/linux-managing-file-services-lpic-2) | **QUEUED** |
-| [Linux: Managing Web Services (LPIC-2)](https://www.pluralsight.com/courses/linux-managing-web-services-lpic-2) | **QUEUED** |
-| [Linux Managing DNS Servers (LPIC-2)](https://www.pluralsight.com/courses/linux-managing-dns-servers-lpic-2) | **QUEUED** |
-| [Linux Advanced File System Management (LPIC-2)](https://www.pluralsight.com/courses/linux-advanced-file-system-management) | **QUEUED** |
-| [Linux Kernel and System Startup (LPIC-2)](https://www.pluralsight.com/courses/linux-kernel-system-startup) | **QUEUED** |
-| [Linux Monitoring and Maintenance (LPIC-2)](https://www.pluralsight.com/courses/linux-monitoring-maintenance) | **QUEUED** |
-
-</div>
-
 ### A Cloud Guru
 
 <div align="justify">
