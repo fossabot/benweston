@@ -34,10 +34,10 @@
 | :----- | :----- |
 | [**Architecting with Google Compute Engine Specialization**](https://www.coursera.org/specializations/gcp-architecture) | **QUEUED** |
 | [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process?specialization=gcp-architecture) | **QUEUED** |
-| [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation?specialization=gcp-architecture) | **QUEUED** |
-| [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=gcp-architecture) | **QUEUED** |
-| [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=gcp-architecture) | **QUEUED** |
-| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=gcp-architecture) | **QUEUED** |
+| [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation?specialization=gcp-architecture) | **_IN PROGRESS_** |
+| [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=gcp-architecture) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-compute-engine-specialization/essential-google-cloud-infrastructure-core-services.pdf) |
+| [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=gcp-architecture) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-compute-engine-specialization/essential-google-cloud-infrastructure-foundation.pdf) |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=gcp-architecture) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/architecting-with-google-compute-engine-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
 
 </div>
 
