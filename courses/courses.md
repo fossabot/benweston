@@ -61,7 +61,7 @@
 | [Mitigating Security Vulnerabilities on Google Cloud](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp?specialization=security-google-cloud-platform) | **QUEUED** |
 | [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud?specialization=security-google-cloud-platform) | **QUEUED** |
 | [Managing Security in Google Cloud](https://www.coursera.org/learn/managing-security-in-google-cloud-platform?specialization=security-google-cloud-platform) | **QUEUED** |
-| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=security-google-cloud-platform) | **QUEUED** |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=security-google-cloud-platform) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/security-in-google-cloud-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
 
 </div>
 
