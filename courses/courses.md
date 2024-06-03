@@ -125,8 +125,8 @@
 | [**Cloud Digital Leader Learning Path**](https://www.cloudskillsboost.google/paths/9) |  |
 | :----- | :----- |
 | [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/paths/9/course_templates/271) | **QUEUED** |
-| [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945) | **QUEUED** |
-| [Modernize Infrastructure and Applications with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/265) | **_IN PROGRESS_** |
+| [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945) | **_IN PROGRESS_** |
+| [Modernize Infrastructure and Applications with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/265) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5037838) |
 | [Innovating with Google Cloud Artificial Intelligence](https://www.cloudskillsboost.google/paths/9/course_templates/946) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/9305170) |
 | [Exploring Data Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/267) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5014729) |
 | [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5002699) |
