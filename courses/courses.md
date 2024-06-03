@@ -127,8 +127,8 @@
 | [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/paths/9/course_templates/271) | **QUEUED** |
 | [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945) | **QUEUED** |
 | [Modernize Infrastructure and Applications with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/265) | **QUEUED** |
-| [Innovating with Google Cloud Artificial Intelligence](https://www.cloudskillsboost.google/paths/9/course_templates/946) | **QUEUED** |
-| [Exploring Data Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/267) | **_IN PROGRESS_** |
+| [Innovating with Google Cloud Artificial Intelligence](https://www.cloudskillsboost.google/paths/9/course_templates/946) | **_IN PROGRESS_** |
+| [Exploring Data Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/267) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5014729) |
 | [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266) | [**LINK**](https://www.cloudskillsboost.google/public_profiles/93955917-e174-4ff0-addf-c98b6f3a9dcb/badges/5002699) |
 
 </div>
