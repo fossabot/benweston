@@ -72,7 +72,7 @@
 | [**Networking in Google Cloud Specialization**](https://www.coursera.org/specializations/networking-google-cloud-platform) | **QUEUED** |
 | [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management?specialization=networking-google-cloud-platform) | **QUEUED** |
 | [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks?specialization=networking-google-cloud-platform) | **QUEUED** |
-| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=networking-google-cloud-platform) | **QUEUED** |
+| [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=networking-google-cloud-platform) | [**LINK**](https://storage.googleapis.com/course-certificates/01-01-coursera/networking-in-google-cloud-specialization/google-cloud-fundamentals-core-infrastructure.pdf) |
 
 </div>
 
