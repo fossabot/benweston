@@ -34,7 +34,7 @@
 
 | Course | Certificate |
 | :----- | :----- |
-| [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | **QUEUED** |
+| [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/) | **_IN PROGRESS_** |
 | [Google Cloud Digital Leader Exam Preparation](https://cloudacademy.com/learning-paths/google-cloud-digital-leader-exam-preparation-1-4155/) | [**LINK**](https://storage.googleapis.com/course-certificates/02-01-cloudacademy/google-cloud-digital-leader-exam-preparation.pdf) |
 
 </div>
